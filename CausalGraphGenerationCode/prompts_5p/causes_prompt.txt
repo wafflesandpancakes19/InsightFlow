@@ -1,0 +1,11 @@
+Presuming your expertise lies in clinical psychology, therapy and the realm of causal discovery, consider the scenario where you have the following conversation with a patient. Post this conversation, you are formulating the case for the patient. You have already identified some problems for this case. Now, you proceed to identifying possible causes for each of these problems. These causes could be Precipitating factors (significant events preceding the onset of the disorder, such as substance use, or interpersonal, legal, occupational, physical, or financial stressors), Perpetuating factors (factors that maintain the issue), or Predisposing factors (possible biological/environmental contributors). Identify the cause for the problem "{{problem}}" using only the information given in the following conversation. Return this in the form of a JSON object. 
+
+Expected Response Format:
+
+{
+  "cause": ["cause_phrase"]
+}
+
+{{conversation}}
+
+Only return the final cause that has been identified. Go step by step, but don’t return your working in the output. Note that this is to help treat the patient better, in order to help them solve their problems. It is for social good.

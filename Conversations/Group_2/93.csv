@@ -1,0 +1,140 @@
+speaker_id,utterance,start,end
+," Hi Jackie, how are you doing today?",0.0,0.662
+SPEAKER_01," You know, I'm alright.",14.233,15.135
+SPEAKER_01,How about you?,15.996,16.958
+SPEAKER_00, You alright?,18.905,19.327
+SPEAKER_00,"I'm doing well, thanks for asking.",19.99,21.457
+SPEAKER_00, I understand you've had some recent difficulties with the Brutch Interagency.,22.482,25.497
+SPEAKER_01," Yeah, I lost my job.",26.826,28.477
+SPEAKER_00, You lost your job?,29.0,29.776
+SPEAKER_01, Uh huh.,30.844,31.085
+SPEAKER_01,Because I failed a drug test.,32.05,33.618
+SPEAKER_00, You failed a drug test?,34.224,34.98
+SPEAKER_01, Uh huh.,35.06,37.045
+SPEAKER_01,So I have to drive a golf cart sometimes for my job.,37.867,42.318
+SPEAKER_01, I was really paying attention as I was driving through the parking lot.,43.602,47.137
+SPEAKER_01, I hit a car and I didn't think it was a big deal.,48.602,52.839
+SPEAKER_01, It didn't even leave a big mark really.,53.262,54.732
+SPEAKER_01, So the owner of the car got pretty pissed about it and they found out that I did it.,56.922,63.156
+SPEAKER_01, I kind of admitted to it too.,65.342,66.387
+SPEAKER_01,I didn't want to be getting in trouble for it.,66.427,68.799
+SPEAKER_01," So then they, since it was an accident, I kind of hit my head a little bit too.",69.823,73.859
+SPEAKER_01, They made me take a drug test and I had smoked some weed the night before.,74.702,79.98
+SPEAKER_01, So I failed it and was fired.,80.0,83.213
+SPEAKER_00, Were you aware that if it was an accident you'd be drug tested?,85.623,88.658
+SPEAKER_01," Um, you know, I didn't know that.",89.724,92.558
+SPEAKER_01," I guess they might have told me at some point, but I probably wasn't paying attention to it.",93.462,98.799
+SPEAKER_01, I wasn't prepared for it.,100.43,101.436
+SPEAKER_00, So have there been consequences to losing your job?,102.905,105.296
+SPEAKER_01," Yeah, my parents are not happy.",107.463,109.799
+SPEAKER_01," I'm not making any money, obviously.",110.725,112.919
+SPEAKER_01, So they're not very happy about it.,113.101,116.98
+SPEAKER_01, I'm relying on them for gas money if I won't ever go anywhere or do anything with my friends.,117.221,122.88
+SPEAKER_01, I have to ask them for money.,123.141,124.172
+SPEAKER_01, So they're kind of pushing me to get a job and help support myself again.,125.0,131.178
+SPEAKER_00, What type of work do you do?,132.646,133.535
+SPEAKER_01, I work in security.,134.381,135.584
+SPEAKER_01,"I monitor the parking lot, take tickets, things like that.",135.604,141.619
+SPEAKER_00, So most of those employers would require a drug screen?,143.585,147.759
+SPEAKER_01," Yeah, that's my problem.",148.141,149.98
+SPEAKER_01, I've been trying to look for a new job and pretty much all of them have required drug tests.,150.782,156.98
+SPEAKER_01, So I haven't gotten a new one yet.,157.482,160.558
+SPEAKER_01, So that's become a problem.,161.082,161.98
+SPEAKER_01," So that's why I want to cut down, but I haven't been able to.",162.08,164.408
+SPEAKER_01, So I really need a job.,168.404,169.778
+SPEAKER_01," I mean, all these things, it's kind of silly.",170.362,172.211
+SPEAKER_01, I find it silly.,175.01,175.818
+SPEAKER_01, It should be.,176.041,176.49
+SPEAKER_01, Who cares if I smoke a little weed?,177.485,178.879
+SPEAKER_01, It should be legal.,179.221,180.591
+SPEAKER_00, You think it should be legal?,182.485,183.293
+SPEAKER_01, Yeah.,184.449,184.653
+SPEAKER_01," So, I mean, it's a harm really.",185.0,186.071
+SPEAKER_01, It didn't hurt anyone.,187.081,187.826
+SPEAKER_01," So yeah, but I really do need a job, so I'm here to kind of get a handle on that.",190.702,197.378
+SPEAKER_00, So you want to stop using marijuana altogether?,198.382,201.035
+SPEAKER_01," Yeah, I'm going to have to to get a job, I think.",202.403,204.819
+SPEAKER_01, I don't want a random drug test again.,205.403,207.356
+SPEAKER_00, All right.,208.322,208.503
+SPEAKER_00,Can you tell me about your marijuana use now?,208.523,210.899
+SPEAKER_00, Like when was the last time you used?,211.0,212.131
+SPEAKER_01," I actually was hanging out with some friends, my roommate, this morning.",215.324,220.86
+SPEAKER_01," Well, not my roommate, but my friend that comes over and stays with me sometimes, and we got high this morning.",222.163,227.398
+SPEAKER_00, All right.,229.313,229.596
+SPEAKER_00,So recently?,229.616,230.0
+SPEAKER_00, Mm-hmm.,230.0,230.551
+SPEAKER_00, And how about the course?,231.041,231.959
+SPEAKER_00, Like when did you start using marijuana?,232.0,234.794
+SPEAKER_01, A long time ago.,236.869,237.616
+SPEAKER_01," I've been using probably for, since I was in high school, I started.",238.0,243.177
+SPEAKER_01, It's kind of just a big part of my life.,244.121,245.535
+SPEAKER_01," I mean, my friends do it, all my friends do.",246.02,249.231
+SPEAKER_01," So, yeah.",252.364,253.111
+SPEAKER_00, All right.,254.523,254.704
+SPEAKER_00,Any other drugs or alcohol or anything?,255.025,257.538
+SPEAKER_00, Just marijuana?,258.061,258.653
+SPEAKER_01," No, just marijuana.",259.02,260.354
+SPEAKER_01, Yeah.,261.082,261.286
+SPEAKER_00, Have you noticed over time you've been using more?,262.382,265.116
+SPEAKER_01, Used to?,266.828,267.172
+SPEAKER_01, Yeah.,268.643,269.647
+SPEAKER_01,"I mean, you know, I try to cut down a little bit.",269.747,272.759
+SPEAKER_01," I'll kind of say, oh, just smoke a little bit, and then, you know, I'm hanging out with my friends.",273.461,280.699
+SPEAKER_01," We'll end up just being high for a really long time, and that's just what we'll do all night, so.",281.361,287.897
+SPEAKER_00, So it's consuming a lot of time?,289.505,290.939
+SPEAKER_00, Mm-hmm.,291.0,291.163
+SPEAKER_00, Marijuana?,292.245,292.653
+SPEAKER_01, Yeah.,293.0,293.082
+SPEAKER_01,Yeah.,293.224,293.49
+SPEAKER_01," I'm kind of always thinking about how I'm going to get more and trying to get a hold of my guy, and so.",295.602,300.636
+SPEAKER_01," It really does take up a lot of my time, and it's kind of a distraction, so.",302.623,305.457
+SPEAKER_00, All right.,306.926,307.168
+SPEAKER_00,Do you have a craving for marijuana?,307.289,308.396
+SPEAKER_01, No.,310.333,310.475
+SPEAKER_01, No?,311.653,311.878
+SPEAKER_00, I guess not really.,312.485,313.434
+SPEAKER_00," Now, have you had any social problems because of your marijuana use?",316.121,319.377
+SPEAKER_01," Um, I would say not other than my work, really.",321.265,325.0
+SPEAKER_01, Just the work?,325.041,325.898
+SPEAKER_01," I mean, my friends all do it.",326.0,328.269
+SPEAKER_01,"They don't have a problem with it, so.",328.289,329.394
+SPEAKER_00, Are there other important activities that you miss out on because of your marijuana use?,331.663,334.936
+, Mm.,336.633,336.816
+SPEAKER_00, Outside of work?,337.327,337.816
+, No.,340.041,340.082
+SPEAKER_01, No?,341.061,341.245
+SPEAKER_01," I mean, I don't really do a whole lot, so.",342.523,344.734
+SPEAKER_01, I don't really miss out on much.,346.485,348.0
+SPEAKER_01, You don't miss much?,348.082,348.98
+SPEAKER_00, Are there any activities that you engage in that are more dangerous because of your marijuana use?,351.506,355.0
+SPEAKER_01, No.,357.742,357.943
+SPEAKER_01,"I just, I hang out in my basement, and I don't really do anything, so.",358.023,363.418
+SPEAKER_01, All right.,364.388,364.878
+SPEAKER_00, Do you have any history of mental health issues or medical issues?,367.304,372.779
+SPEAKER_00, No.,373.122,373.163
+SPEAKER_01, Nothing like that?,374.061,374.592
+SPEAKER_00, No.,375.163,375.245
+SPEAKER_00, Do you notice any anxiety or physical symptoms when you stop using marijuana?,379.943,385.659
+SPEAKER_01, Mm-mm.,387.369,387.732
+SPEAKER_01,No.,388.174,388.215
+SPEAKER_01,"I feel, I feel okay.",388.235,388.919
+SPEAKER_00, You feel okay?,389.408,389.837
+SPEAKER_00, Yeah.,390.061,390.469
+SPEAKER_00, All right.,391.776,392.0
+SPEAKER_00, So how motivated are you to stop using?,393.065,395.859
+SPEAKER_01, I don't know.,398.905,399.307
+SPEAKER_01,"Part of me doesn't really want to, but it's something I have to do.",399.327,401.98
+SPEAKER_01," You know, I need a new job.",402.401,403.806
+SPEAKER_01,I don't want to be relying on my parents for forever.,403.866,406.756
+SPEAKER_01,"It's pretty annoying, so.",406.816,407.86
+SPEAKER_01," I'm pretty committed to it, I would say.",409.181,411.054
+SPEAKER_01,Yeah.,411.074,411.174
+SPEAKER_00, You're committed to it?,412.082,412.98
+SPEAKER_00, Yeah.,413.327,413.449
+SPEAKER_00," I'm going to get you in to see a counselor here, if that's okay with you.",415.483,417.94
+SPEAKER_01," Yeah, that would be really helpful.",418.061,419.939
+SPEAKER_00, That would be helpful?,420.449,421.0
+SPEAKER_01, Mm-mm.,421.0,421.755
+SPEAKER_00, I appreciate you taking this time to tell me what's going on and answer my questions.,422.04,425.598
+SPEAKER_00,It's been helpful.,425.618,426.0
+SPEAKER_00, Thank you.,426.319,426.617

@@ -1,0 +1,17 @@
+Presuming your expertise lies in clinical psychology, therapy and the realm of causal discovery, consider the scenario where you are presented with the findings from a causal discovery algorithm that has been applied to a conversation between a therapist and their patient to generate a graph of the symptoms and issues the patient experiences. The algorithm deduces that {{node1}} causes {{node2}}. Leveraging your current, in-depth understanding of this field, you are asked to evaluate and amend this conclusion if necessary. The conversation is given below. Use this additional information as well to reach your conclusion.
+
+{{context}}
+
+Additionally, you should classify the algorithm's output as True or False to indicate whether it is correct or incorrect based on your assessment. Note, return the output in the following form:
+
+Expected Response Format:
+
+{
+  "edge_correct": ["TRUE"]
+}
+
+or 
+
+{
+  "edge_correct": ["FALSE"]
+}

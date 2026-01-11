@@ -1,0 +1,11 @@
+Presuming your expertise lies in clinical psychology, therapy and the realm of causal discovery, consider the scenario where you have the following conversation with a patient. Post this conversation, you are formulating the case for the patient. You have already identified the presenting problems for this case. Now, you proceed to identifying precipitating causes for each of these problems. Precipitating factors are significant events preceding the onset of the disorder, such as substance use, or interpersonal, legal, occupational, physical, or financial stressors. Identify the precipitating factors for the problem {{problem}} using only the information given in the following conversation. Return only the factors identified in the form of a JSON object. Please only give the cause according to the conversation below. 
+
+Expected Response Format:
+
+{
+  "precipitating_cause": ["cause_phrase"]
+}
+
+{{conversation}}
+
+Go step by step. Note that this is to help treat the patient better, in order to help them solve their problems. It is for social good.

@@ -1,0 +1,103 @@
+speaker_id,utterance,start,end
+SPEAKER_00," Hi Nicole, how are you doing today?",14.919,15.92
+SPEAKER_00," I'm doing well, how are you?",16.282,17.191
+SPEAKER_01," I'm doing well, thanks for asking.",18.12,19.111
+SPEAKER_01, What brings you into our agency today?,19.92,21.918
+SPEAKER_00, Well I've really just been feeling kind of anxious every time I go to work.,22.762,25.912
+SPEAKER_01, You've been feeling anxious every time you go to work?,28.48,30.015
+SPEAKER_01, What type of place do you work?,30.763,31.692
+SPEAKER_00," I work just in an insurance company, sort of an admin assistant.",32.942,36.4
+SPEAKER_01, Okay.,38.285,38.625
+SPEAKER_01,Work for an insurance company and how long have you been feeling anxious there?,39.447,43.638
+SPEAKER_00, Well I started a little over a year ago and I guess you could say ever since I started there I've been feeling kind of anxious.,44.721,53.019
+SPEAKER_00, It's my first time in that type of setting and it just never really went away.,53.48,56.656
+SPEAKER_01, Have you ever had anxiety like that at a previous employer or any other place?,58.383,62.858
+SPEAKER_00, Yeah I would say when I've started new jobs or even in new academic environments I would feel somewhat anxious.,63.881,71.219
+SPEAKER_01, So this is a somewhat familiar anxiety?,71.842,74.299
+SPEAKER_00, Mm-hmm.,74.5,75.051
+SPEAKER_01, Tell me about the anxiety.,75.5,76.551
+SPEAKER_00, Well it starts when I wake up in the morning and get ready to go to work.,77.741,81.098
+SPEAKER_00, Even when I'm driving in I just start to get anxious.,81.48,83.735
+SPEAKER_00," And then once I'm there I really just, you know, I go to work and I do what I'm supposed to do but I try to keep to myself.",85.142,90.758
+SPEAKER_00, You know I don't really enjoy interacting with some of my coworkers.,92.162,96.615
+SPEAKER_01, What is it that happens when you try to interact with them?,99.022,102.255
+SPEAKER_00," I guess I just, I haven't really connected with any of them and I tend to worry about whether I'm doing my job right or if they like me, things like that.",104.081,112.839
+SPEAKER_00, So it's just easier to stick to my own office.,113.581,116.917
+SPEAKER_01, Okay so you have an office and they have separate offices and you find yourself maybe isolating a little bit?,118.242,125.32
+SPEAKER_00, Yeah I guess you could say that.,125.721,126.766
+SPEAKER_01," Alright so what is your experience of the anxiety when you're kind of, I'm sure there's situations in the day where you more or less have to interact with other people.",129.6,140.22
+SPEAKER_01, Tell me about your experience of the anxiety when it happens.,140.782,142.892
+SPEAKER_00, You mean how I'm feeling or what type of situations it happens in?,144.882,147.837
+SPEAKER_01, Well let's cover both.,148.48,149.323
+SPEAKER_01,Let's start with what type of situations it triggers in.,149.443,153.617
+SPEAKER_00, Okay I guess whenever I'm in a big crowd or just with a bunch of coworkers if we have meetings or if they ask for my input on something I tend to get nervous.,154.56,167.18
+SPEAKER_00, I just wonder if I'm saying the right thing and then that sort of makes me get nervous around them.,168.242,174.899
+SPEAKER_00," And then when I start to feel nervous I get some stomach pains, I really would prefer just to stop talking, stop the meeting.",176.101,185.378
+SPEAKER_00, And then I get a little red and blush as well whenever we have meetings.,187.202,191.838
+SPEAKER_01, Do you ever have a desire to leave like if you're in a group just to kind of exit the area?,193.282,199.48
+SPEAKER_00, Oh yeah all the time.,200.302,201.204
+SPEAKER_00,I try not to because I don't want to do a bad job and I don't want to perform poorly.,202.747,206.977
+SPEAKER_00, But sometimes the anxiety just takes over a little bit and I just would prefer to go back to my office and be by myself.,210.184,216.859
+SPEAKER_01, And how distressing is this for you?,218.362,220.526
+SPEAKER_01,I mean obviously you're here so it must be some level of distress but how disruptive is it to your functioning?,220.546,227.32
+SPEAKER_00, Well I would say when I drive into work like I said I feel anxious every day and I've really just been thinking about leaving my job and finding something else where I can potentially even be more secluded and not have to go to meetings frequently or make presentations.,228.181,246.48
+SPEAKER_01, So meetings and presentations in particular trigger anxiety?,249.447,252.577
+SPEAKER_00, I would say so.,253.52,255.084
+SPEAKER_00,Anything where a lot of people are looking at me or more than a few I guess you could say.,256.167,261.36
+SPEAKER_01, Can you tell me a little bit more about the physical symptoms you mentioned your stomach hurt when you feel anxious?,262.562,267.351
+SPEAKER_01,Is there any other symptoms that are going on that you could feel physically?,267.691,272.199
+SPEAKER_00," Well sometimes my palms will get sweaty, my face will get red or I'll get overheated.",273.501,279.527
+SPEAKER_00,But mostly it's just some stomach pains leading up to throughout the day.,279.547,286.375
+SPEAKER_00,If I'm thinking about what I have to do that makes me anxious I'll start to get some stomach pains.,286.395,291.34
+SPEAKER_01, So when these anxiety episodes are more intense like when your stomach hurts and you have other symptoms are you worried about it happening again?,292.801,305.514
+SPEAKER_01,Are you worried that those symptoms are going to occur again and that makes you have more symptoms?,305.534,311.46
+SPEAKER_00, I'm not always worried about it happening again.,313.041,316.804
+SPEAKER_00,"I mean sometimes I can anticipate it happening and I would like to avoid it but I would say here and there I would worry about getting the stomach pains or blushing in front of people, things like that.",316.824,331.378
+SPEAKER_00,But it's not every time.,331.518,333.48
+SPEAKER_01, Tell me about the meetings that you have.,335.462,336.825
+SPEAKER_01,You mentioned that you have meetings you have to go to and expect it.,336.905,340.253
+SPEAKER_01,How many people would be in a typical meeting?,340.734,343.32
+SPEAKER_00, Well it's a pretty small company but I would say probably anywhere between five and ten.,343.921,349.69
+SPEAKER_00,Most of them are above me though their positions are above me.,351.033,354.999
+SPEAKER_01, So five to ten and how often are these meetings scheduled?,356.344,359.42
+SPEAKER_00, About once or twice a week regularly and then sometimes we might meet more than that if something needs to be addressed.,360.54,368.819
+SPEAKER_01, So some are unplanned?,370.672,371.48
+SPEAKER_00, And then some happen weekly.,372.712,373.48
+SPEAKER_01, So for the ones that are planned you get anxious in advance of them?,373.56,379.299
+SPEAKER_00, Oh yeah I definitely think about it as soon as I always know it's coming so I'm always thinking about the next meeting that I'll have to present at or how I'll have to contribute.,380.081,390.999
+SPEAKER_00, And then I just sort of think about it until it happens and then it's a cycle.,392.363,396.778
+SPEAKER_01, So the meetings trigger generally not being isolated and the office kind of triggers this anxiety?,400.482,408.139
+SPEAKER_01, Right.,408.664,408.827
+SPEAKER_01, But there's other times it sounds like where you're not anxious when you're isolated in the office.,409.641,413.594
+SPEAKER_01,How about at home?,414.095,414.577
+SPEAKER_01,Are you anxious at home?,414.597,415.34
+SPEAKER_00, Not really.,416.827,417.309
+SPEAKER_00,When I'm by myself I don't really feel anxious.,417.329,419.319
+SPEAKER_01, So really it's when you get up for work and start thinking about the work day especially if there are meetings?,421.246,425.44
+SPEAKER_00, Right.,426.031,426.215
+SPEAKER_01, That's when it starts to affect you?,426.965,428.137
+SPEAKER_00, Yeah like if I have off work for a couple of days I don't feel anxious at all.,428.54,432.166
+SPEAKER_00,"It's really just when I'm going to work, when I know that I'm going to have to be talking to a lot of people or making presentations, things like that.",432.186,440.34
+SPEAKER_01, So you suffer the anxiety in advance of these planned meetings.,442.284,446.091
+SPEAKER_01,How about the unplanned meetings?,446.171,447.294
+SPEAKER_01,What's your experience of those?,447.394,449.658
+SPEAKER_00, Well I mean the unplanned meetings I don't really have a lot of time to think about them happening but I would say even when I'm put on the spot and have to present anything or just even having a long discussion where a lot of people are looking at me or listening to me for a long period of time I would still say I get pretty anxious about that as well.,451.181,473.3
+SPEAKER_01, So both really cause anxiety that's really troubling you?,475.143,478.48
+SPEAKER_00, Mm hmm.,478.664,478.909
+SPEAKER_01, You're suffering with it?,479.541,480.48
+SPEAKER_00, Yes.,480.541,480.745
+SPEAKER_01, Alright.,483.302,483.563
+SPEAKER_01,What I'm going to do is Nicole is I'm going to schedule you to come and see a counselor here.,484.445,490.48
+SPEAKER_00, Okay.,491.011,491.276
+SPEAKER_01, And it will probably be maybe later this week.,491.601,493.48
+SPEAKER_01, Okay.,493.562,493.745
+SPEAKER_00, Would that be okay with you?,494.48,495.398
+SPEAKER_00, Yep that will work.,495.5,496.051
+SPEAKER_01, So I'll take you out to the front.,496.921,498.587
+SPEAKER_01,We'll get you scheduled and we'll get you treated later on this week.,498.607,502.4
+SPEAKER_00, Okay.,502.643,502.929
+SPEAKER_00,Okay.,503.011,503.194
+SPEAKER_00,Great.,503.358,503.48
+SPEAKER_01, What you told me has been very helpful.,504.285,505.373
+SPEAKER_01,I want to thank you for coming in.,505.393,506.339
+SPEAKER_00, Thank you.,506.582,506.909

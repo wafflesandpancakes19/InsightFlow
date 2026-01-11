@@ -1,0 +1,231 @@
+speaker_id,utterance,start,end
+SPEAKER_00," Hi, Alvina.",0.322,1.006
+SPEAKER_00,How are you doing today?,1.569,2.414
+SPEAKER_00,It's good to see you.,2.434,3.098
+SPEAKER_01, I'm just tired.,3.642,4.432
+SPEAKER_00, Just tired.,5.224,5.796
+SPEAKER_01, Yeah.,6.041,6.327
+SPEAKER_00," You know, we did some pre-visit planning with you, and your PHQ-2, which is a short depression screen, was actually positive.",7.0,18.0
+SPEAKER_00," So we asked the nurse to give you a little longer screening tool, which is a PHQ-9.",18.161,22.858
+SPEAKER_00," And that actually did come up with a score of 8, which is in the mild depression range.",23.821,30.398
+SPEAKER_00, So how does that feel?,31.281,33.03
+SPEAKER_01," Well, I knew I felt different.",35.522,37.912
+SPEAKER_01,I didn't know I was depressed.,38.193,39.679
+SPEAKER_00, But you knew something was wrong.,40.423,42.416
+SPEAKER_01, I didn't feel like myself.,43.08,44.286
+SPEAKER_01,"I haven't been feeling like myself, no.",44.307,46.558
+SPEAKER_00, Tell me a little bit more about not feeling like yourself.,47.281,49.814
+SPEAKER_01," Well, you know, I just go to work, and I come home, and I sleep.",51.121,54.698
+SPEAKER_01," I wake up in the morning, and I'm still tired.",55.422,57.653
+SPEAKER_01, I just have no energy.,59.323,60.976
+SPEAKER_00," So you sleep a lot, but even though you're sleeping, you don't wake up rested.",61.922,65.739
+SPEAKER_01," No, not at all.",66.102,66.939
+SPEAKER_00, Doesn't sound like good quality sleep.,67.384,68.838
+SPEAKER_01, No.,69.364,69.566
+SPEAKER_01, I just have no energy.,71.241,72.266
+SPEAKER_01,I don't want to do anything but just sleep.,72.286,74.136
+SPEAKER_00, How long has that been going on?,75.162,76.236
+SPEAKER_01, Hmm.,76.641,76.883
+SPEAKER_01,I guess a couple months.,77.629,78.597
+SPEAKER_00, Two or three months.,79.449,80.0
+SPEAKER_01, Yeah.,80.408,80.612
+SPEAKER_00," What else is going on, Albina?",81.866,83.094
+SPEAKER_01," Well, you know, I've been drinking more.",84.985,87.94
+SPEAKER_01," I mean, I drink socially, but I find myself that when I come home, you know, I have a glass of wine, and then I just go to sleep.",88.361,96.359
+SPEAKER_00, And that's worrisome to you?,97.545,98.657
+SPEAKER_01," It is, because I don't usually drink that often during the week.",99.161,102.437
+SPEAKER_01, So it's increased.,103.201,104.849
+SPEAKER_00,Yeah.,106.779,107.0
+SPEAKER_00, I can see where that would be.,107.929,108.818
+SPEAKER_00, Bothersome to you.,110.152,110.96
+SPEAKER_00, What else is going on with you?,112.106,114.256
+SPEAKER_01," Well, you know, my mom died a year ago, so Mother's Day is coming up.",116.384,121.9
+SPEAKER_01," So, you know, I've been thinking about mom a lot.",122.06,124.131
+SPEAKER_01,I miss her a lot.,124.251,126.0
+SPEAKER_00, That anniversary is close.,126.362,128.94
+SPEAKER_01, Yeah.,129.612,129.816
+SPEAKER_00," Well, that's particularly hard when those anniversaries come around for the passings of our parents.",131.04,137.92
+SPEAKER_00, That's a very difficult time.,138.0,139.515
+SPEAKER_01, Yeah.,141.286,141.93
+SPEAKER_01,And I took care of mom.,142.975,143.98
+SPEAKER_01," So that's hard, because for a long time, well, she was sick and she died from cancer, so I took care of her.",144.622,150.98
+SPEAKER_01," So for a long time, that's all I did was take care of mom and work.",151.161,153.98
+SPEAKER_01," So now that she's gone, it just kind of brings up everything all over again.",155.225,158.679
+SPEAKER_00, There's kind of a hole in your life.,159.182,160.556
+SPEAKER_01, Yeah.,161.121,161.465
+SPEAKER_01,We were really close.,161.626,162.556
+SPEAKER_00," Well, I'm really sorry for your loss, and thank you for sharing that with me.",164.401,168.573
+SPEAKER_00,I know that's very difficult.,168.613,170.799
+SPEAKER_00, So it sounds like your sleep has really been affected.,172.562,177.275
+SPEAKER_00,You're not getting good quality sleep.,177.516,179.0
+SPEAKER_00, You're really fatigued.,180.832,181.879
+SPEAKER_01, Yeah.,182.204,182.469
+SPEAKER_00," Just kind of going through the motions, it sounds like, during the day.",183.242,185.718
+SPEAKER_00," And then, how's your appetite been?",187.623,190.377
+SPEAKER_01, Not really eating that much.,192.784,194.111
+SPEAKER_01,"You know, because I don't have energy.",194.814,195.96
+SPEAKER_01," You know, before I would come home, cook dinner, or, you know, meet some friends after work.",196.12,201.0
+SPEAKER_01, But I don't want to do that.,201.261,202.223
+SPEAKER_01,I just come home and have a glass of wine and just go to bed.,202.324,207.639
+SPEAKER_00, So you used to be more socially involved than you are now.,208.221,210.96
+SPEAKER_01," Yeah, I don't do anything now.",211.141,213.0
+SPEAKER_00, A little more isolated.,213.0,214.0
+SPEAKER_01," Yeah, just work and come home and sleep.",214.06,217.0
+SPEAKER_00," So, if there was something that you could do about this, what do you think you might like to do?",218.002,225.86
+SPEAKER_01," Well, I don't want to stay like this.",226.883,228.247
+SPEAKER_01,"This isn't who I am, you know, just sleeping all the time.",228.95,231.98
+SPEAKER_01," It's just, I don't want to stay this way.",232.0,233.939
+SPEAKER_00, It kind of feels like you're stuck at this point.,234.081,237.0
+SPEAKER_01," Yeah, I just don't want to do anything or go out with my friends anymore and just work and come home and sleep.",237.782,244.0
+SPEAKER_01, I don't want to do that.,244.0,244.626
+SPEAKER_00, It's kind of the same old routine.,246.808,248.0
+SPEAKER_00, I wonder if it would be okay if we could talk about some of the options that are out there for folks that have some mild depression.,252.243,259.94
+SPEAKER_00, Okay.,260.02,260.163
+SPEAKER_00, Would that be all right?,261.265,261.959
+SPEAKER_00, Mm-hmm.,262.082,262.286
+SPEAKER_00," Most of the time, we typically think about medication as a possible answer.",264.602,269.498
+SPEAKER_00, Mm.,270.0,270.041
+SPEAKER_00," So, no medication at this point.",272.687,274.0
+SPEAKER_00, I don't want any medication.,274.061,275.798
+SPEAKER_01,No.,275.818,275.859
+SPEAKER_01, All right.,276.408,276.857
+SPEAKER_00," Then, I think as important, certainly, perhaps more important than medication is counseling  and getting you to talk with someone about your feelings on a regular basis and getting some feedback on that.",279.622,292.98
+SPEAKER_01, I'm okay with that.,293.501,294.404
+SPEAKER_01,"You know, when Mom was sick, she was in hospice care, so she had cancer.",294.464,299.278
+SPEAKER_01," And the nurses and the doctors had our family talk to someone about what we were feeling, what we had to face.",300.221,308.0
+SPEAKER_00, So that was a pretty good experience?,308.0,309.838
+SPEAKER_01, Yeah.,310.545,310.869
+SPEAKER_01,Yeah.,311.818,311.98
+SPEAKER_01, To talk to someone that understood what we were going through.,313.283,315.0
+SPEAKER_01, Sure.,315.041,315.143
+SPEAKER_00, Something else might be exercise.,319.104,322.036
+SPEAKER_00, Another possibility would be a natural product.,323.944,327.98
+SPEAKER_00, There are some things over the counter that I think for mild depression may be appropriate.,328.0,333.0
+SPEAKER_00, And that's another thing that we could talk about if you wanted to learn a little bit more about those.,333.221,338.0
+SPEAKER_01, Maybe something natural.,338.624,339.631
+SPEAKER_01,Exercise.,339.732,340.356
+SPEAKER_01, I don't have energy.,341.263,342.131
+SPEAKER_01,I don't want to...,342.152,342.879
+SPEAKER_01," I just don't feel like doing anything, so I know I'm not going to exercise right now.",343.764,346.819
+SPEAKER_01," But if it's something that's natural, you know, I could maybe try that.",347.523,350.92
+SPEAKER_00, Okay.,351.633,351.959
+SPEAKER_00," If it's okay, let's go back to talking about the counseling for a minute, and then we can hit some of those other things too.",354.381,360.679
+SPEAKER_01, Okay.,361.122,361.49
+SPEAKER_00," So, is there a counselor that you know or that you have a relationship with?",362.0,368.96
+SPEAKER_00," This lady that worked with you during your mom's death, is she...",369.403,372.0
+SPEAKER_00, Yeah.,372.02,372.184
+SPEAKER_00, Someone that's out in the community?,373.082,374.0
+SPEAKER_01, She was really nice from... Yeah.,374.282,375.691
+SPEAKER_01,I liked her.,375.732,376.96
+SPEAKER_00, So it sounds like you're pretty ready to do that.,379.462,383.98
+SPEAKER_00," Could you say on a scale of 0 to 10, 10 being really ready, 0 being not ready at all, how ready would you be to do some counseling?",385.442,395.86
+SPEAKER_01, Maybe like a 6 or a 7.,397.329,398.597
+SPEAKER_00, So a 6 or a 7.,400.743,401.305
+SPEAKER_00,Why a 6 or a 7 and not a 4 or a 5?,401.365,403.293
+SPEAKER_01," Well, because I don't want to stay like this, and you know, I've already talked to her before.",406.525,410.518
+SPEAKER_01," She was really nice, so I wouldn't mind going back to her, and she told me, you know, when I saw her last time, if ever needed, I could come back.",412.083,419.0
+SPEAKER_00, So it sounds like you've got a connection there already.,419.0,422.0
+SPEAKER_00, Yeah.,422.02,422.102
+SPEAKER_00, That's really good.,423.102,423.796
+, Yeah.,424.0,424.082
+SPEAKER_00, Does that sound like something you're ready to do then and maybe make a plan about that?,428.587,434.86
+SPEAKER_01, Yeah.,435.482,435.803
+SPEAKER_01,I can definitely check with her and see if she can see me again.,435.823,440.0
+SPEAKER_01, Okay.,440.02,440.204
+SPEAKER_01, Yeah.,441.306,441.592
+SPEAKER_00," Well, if that's okay then, would it be alright if we talked a little bit about the exercise?",442.523,446.0
+SPEAKER_00," I know you said it didn't really sound like an option for you at this time, and that's perfectly fine.",446.241,451.98
+SPEAKER_00, Perfectly fine.,452.161,452.826
+SPEAKER_00,"Only you can make those decisions, Alvena.",452.866,454.658
+SPEAKER_00," But if it's okay, I wanted to give you a little bit of information about exercise and its effect on the brain.",456.484,461.98
+SPEAKER_01, Okay.,462.592,462.918
+SPEAKER_00," Exercise is, again, in a number of studies, has been shown to be as effective as prescription antidepressants.",464.463,471.96
+SPEAKER_01, Okay.,472.566,472.646
+SPEAKER_01,I didn't know that.,472.667,473.919
+SPEAKER_00, Yeah.,474.764,475.045
+SPEAKER_00,It actually raises serotonin.,475.146,476.673
+SPEAKER_00,Have you heard about serotonin?,476.693,478.0
+SPEAKER_00," Yeah, I have.",478.0,478.429
+SPEAKER_01, It's kind of a happy hormone.,479.02,479.898
+SPEAKER_00, Yes.,480.041,480.143
+SPEAKER_00," So it actually raises serotonin and also something called BDNF, which is, well, it doesn't really matter what it is,  but it helps actually your brain actually grow and help repair itself.",481.842,494.0
+SPEAKER_00," So exercise can help in lots of ways by improving serotonin and decreasing stress, certainly,  and then actually improving the quality of sleep.",494.942,505.41
+SPEAKER_00,How does that sound at this point?,506.693,508.438
+SPEAKER_01," Well, if I try to exercise and if I call her to talk to her again, does that mean I don't have to go on the medication?",509.782,516.779
+SPEAKER_01," Right now, we can try that?",517.949,519.0
+SPEAKER_00, Absolutely.,520.043,520.605
+SPEAKER_00,"Again, those are your decisions, and I'm here to really support you in those.",520.806,524.98
+SPEAKER_00," So if those sound like things that you might be willing to do, I'm all for it.",525.302,528.96
+SPEAKER_01," Well, I'll try that if I don't have to go on the medication.",529.364,531.0
+SPEAKER_01, Okay.,531.061,531.367
+SPEAKER_01, I have some friends that exercise and work out that I could probably call and exercise with them.,533.224,537.86
+SPEAKER_00, So you have some friends that are already involved in an exercise program.,538.846,541.0
+SPEAKER_00, Yeah.,541.02,541.245
+SPEAKER_00, Is that something you talk with them about and that you possibly could get into that group?,544.127,548.0
+SPEAKER_01," Yeah, I have friends that run and friends that go to the gym.",548.06,552.214
+SPEAKER_01,I have some friends that walk after work.,552.254,554.0
+SPEAKER_00, So it sounds like a wide variety of things that you could do.,555.124,560.0
+SPEAKER_00, Yeah.,560.143,560.49
+SPEAKER_00, Which of those tend to interest you most?,561.343,563.0
+SPEAKER_01," Well, then also, you know, my church on the weekends, they have exercise classes too.",564.321,568.92
+SPEAKER_01," So, yeah, but I think, I guess I don't have energy really to exercise, but I'll try it.",569.221,576.0
+SPEAKER_01," But I'll definitely call the person I had talked to when mom passed away, and I'll do that right away.",576.381,581.759
+SPEAKER_00, Very good.,582.102,582.653
+SPEAKER_00," Well, I think it sounds like this is important for you to feel better, and it sounds like you're really ready to kind of make a plan.",584.22,595.479
+SPEAKER_00, How do you see this fitting into your life at this point?,597.023,602.0
+SPEAKER_00," Again, kind of getting back to the counseling and the exercise.",604.045,609.599
+SPEAKER_01," Well, when I saw her, I could see her after work.",610.782,614.168
+SPEAKER_01,So I can call her and see if I can still see her after work for therapy.,614.549,619.82
+SPEAKER_01," And exercise, I mean, I can do that, you know, after work or on the weekends.",620.721,625.711
+SPEAKER_01,"My friends, they exercise various times.",625.832,628.537
+SPEAKER_01,"So, yeah.",628.717,629.419
+SPEAKER_00, Let's talk a little bit more about that.,630.882,632.827
+SPEAKER_00,"Let's say on a scale of, if we can use another one of those scales,  zero being confident that you could start an exercise program, zero being not very confident at all, and ten being very confident.",632.847,650.0
+SPEAKER_00, Tell me where you are in this exercise thing.,650.724,653.879
+SPEAKER_01," Honestly, maybe a five.",657.584,659.367
+SPEAKER_01,I'll try it.,661.932,662.753
+SPEAKER_01,"Anything, if I have to do that so I don't have to go on medication, then I'll try it.",663.314,667.0
+SPEAKER_00, Okay.,667.322,668.688
+SPEAKER_00,That sounds like a pretty strong commitment.,669.854,671.0
+SPEAKER_01," Yes, I'll try it.",671.566,672.434
+SPEAKER_00, Okay.,673.321,673.723
+SPEAKER_00,And tell me a little bit more about your plan for exercise at this point then.,674.225,677.98
+SPEAKER_01," Well, you know, my friends have been calling, but, you know, I'm just sleeping all the time.",679.442,683.036
+SPEAKER_01,"So when they call, I'm asleep.",683.096,683.92
+SPEAKER_01, So I haven't really called them back.,684.481,685.824
+SPEAKER_01,"But, you know, I can just return their calls and just let them know I'll want to meet up with them and, you know, at least maybe just start walking.",685.844,693.96
+SPEAKER_00, I think that's a great decision.,694.462,696.269
+SPEAKER_00,You have a couple of friends in mind that you could call?,696.59,698.94
+SPEAKER_01," Yeah, I have real close friends that live not too far from me.",699.883,703.997
+SPEAKER_01,Yeah.,704.017,704.9
+SPEAKER_00, So tell me about a plan that you would think could perhaps get you going with the exercise.,705.16,713.419
+SPEAKER_01," Well, I probably shouldn't come home.",715.861,718.444
+SPEAKER_01,I probably would need to call one of my friends and make a plan to maybe walk after work and take a change of clothes and maybe drive to one of my friend's house after work and change with her.,719.325,731.379
+SPEAKER_00, It would be difficult to do it in the morning.,732.0,734.271
+SPEAKER_00,You don't see that happening.,734.412,735.397
+SPEAKER_01," No, because it's so hard when I get up in the morning.",736.02,737.826
+SPEAKER_01,I'm so tired that I can't see doing it in the morning.,737.846,741.378
+SPEAKER_00, And you think it would be easier to do it after work?,742.0,744.477
+SPEAKER_01, Because I'm already out.,745.0,745.925
+SPEAKER_01,"Yeah, as long as I don't come home.",746.065,747.472
+SPEAKER_01,So I come home and want to go to sleep.,747.533,748.94
+SPEAKER_00," Come home, it's over.",749.061,750.758
+SPEAKER_01, Yeah.,751.081,751.242
+SPEAKER_01,Yeah.,751.303,751.424
+SPEAKER_00, Alright.,753.0,753.34
+SPEAKER_00,"Well, good.",755.183,755.664
+SPEAKER_00,It sounds like we have a plan for the counselor.,756.966,760.771
+SPEAKER_00,"And when you check out today, I will put this in your record.",761.192,766.599
+SPEAKER_00, And we'll want to get in touch with the counselor that you worked with when your mom was going through her passing and the grief situation.,767.501,777.74
+SPEAKER_00, And then I'll want to depend upon you to call your friends and then get involved in the exercise program.,778.361,786.9
+SPEAKER_00, Okay.,787.101,787.364
+SPEAKER_01,I'll try that.,787.828,788.657
+SPEAKER_00, Alright.,789.421,789.802
+SPEAKER_00,"And if it's okay, I'd like to call you in a week to one, see how you're feeling and two, if the exercise is helping.",789.882,798.0
+SPEAKER_00," You may really find that after you give the exercise a good trial, you may actually look forward to it.",798.201,805.0
+SPEAKER_00, Because my hope is that it will actually help you feel better and improve your mood.,805.903,811.719
+SPEAKER_00, And then I would also like to see you back in two weeks just to check on things.,813.225,817.0
+SPEAKER_00," Now, we've talked about medication not being on the table at this point.",817.381,822.095
+SPEAKER_00," But I want you to know, you can call anytime and I will work to get you in.",824.742,830.0
+SPEAKER_00, And that might be something that we need to do if our plan is not working.,831.181,837.0
+SPEAKER_01, Okay.,837.525,837.925

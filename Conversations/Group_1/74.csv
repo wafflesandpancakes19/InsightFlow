@@ -1,0 +1,113 @@
+speaker_id,utterance,start,end
+," Hi, Jackie.",0.0,0.181
+,How are you doing today?,0.201,0.662
+,I'm all right.,0.682,0.943
+SPEAKER_01, You're all right?,15.112,15.553
+SPEAKER_01,"Yeah, I've been having a rough time.",15.573,19.579
+SPEAKER_00, Having a rough time?,20.04,21.687
+SPEAKER_01,I understand there have been some difficulties lately that brought  you into the agency.,22.028,25.755
+SPEAKER_00,Yeah.,25.776,25.918
+SPEAKER_01, Tell me what's going on.,26.184,26.837
+SPEAKER_00," About a week ago, I went out with some friends to a boxing match.",29.146,33.98
+SPEAKER_00, I didn't really want to go.,35.387,36.372
+SPEAKER_00,I've never really been to one.,36.392,37.538
+SPEAKER_00, It's not really something I'm interested in.,38.02,39.919
+SPEAKER_00, But I went just to hang out with my friends and stuff.,40.924,44.679
+SPEAKER_00," I watched a few fights, and this one fight, this guy, nothing was really happening.",45.06,52.0
+SPEAKER_00," I wasn't really into it, but this guy got knocked out right in front of me.",52.06,56.0
+SPEAKER_00, It was really close to the ring.,56.04,61.536
+SPEAKER_00,"He got knocked out right in front of me,  fell right on his face, and I just saw him lifeless in front of me.",61.756,69.458
+SPEAKER_00," And I just ever since then, it's happened the same.",70.201,74.92
+SPEAKER_00, I had to leave right away.,75.241,76.906
+SPEAKER_00,I just couldn't be there anymore.,76.926,80.819
+SPEAKER_01, What did you notice right away?,81.802,83.327
+SPEAKER_01,One of the boxers was knocked out.,84.289,87.759
+SPEAKER_01, You saw that.,89.605,90.186
+SPEAKER_01,What did you notice right away that was happening?,91.61,93.716
+SPEAKER_00," I just felt really, really scared.",95.321,97.848
+SPEAKER_00,My heart started racing.,98.229,101.037
+SPEAKER_00, I couldn't focus on what was going on around me.,102.783,105.853
+SPEAKER_00,I just had to get out of there.,105.873,107.639
+SPEAKER_00," So I don't even really know what happened to him, if he was okay or not.",108.301,113.736
+SPEAKER_00," So I just couldn't handle how I was feeling, so I had to leave.",115.04,118.835
+SPEAKER_01, All right.,120.502,120.843
+SPEAKER_01,"So you left, and the symptoms, they continued?",120.884,124.418
+SPEAKER_00," Yeah, pretty much daily for the past week.",125.16,128.167
+SPEAKER_00,I got home that night.,129.169,130.171
+SPEAKER_00,I couldn't sleep.,131.134,131.895
+SPEAKER_00, It took me almost all night to fall asleep.,134.682,137.43
+SPEAKER_00,"And then at work on Monday,  I was having a lot of problems there.",137.57,144.711
+SPEAKER_00,What kind of problems?,144.731,146.817
+SPEAKER_00, I couldn't focus when anyone was talking to me.,148.963,151.951
+SPEAKER_00,"I had a meeting on Tuesday,  and my boss was talking for a while.",151.971,157.533
+SPEAKER_00, I felt like I couldn't concentrate at all.,159.401,164.129
+SPEAKER_00,Everything was just a blur around me.,165.09,167.594
+SPEAKER_01, All right.,171.361,171.641
+SPEAKER_01,Do you find that you're having memories of the incident at the boxing match that are intrusive?,171.721,181.379
+SPEAKER_00," Yeah, I think about it a lot, pretty much all the time.",182.0,184.758
+SPEAKER_01, And it's bothersome for you?,185.121,186.111
+SPEAKER_00," Yeah, if I'm at work trying to get some paperwork done or something,  it just pops in my mind, and I can't make it go away.",187.141,194.719
+SPEAKER_01," And you try, but the memories stay there.",195.862,198.93
+SPEAKER_01,Any dreams related to the...,200.073,202.96
+SPEAKER_00," No, I haven't really been dreaming about it.",203.622,205.788
+SPEAKER_00,"I'm barely sleeping, so...",205.848,208.736
+SPEAKER_01," Any times when you feel like you're reliving what you saw, like you're seeing it again?",210.982,215.915
+SPEAKER_00," No, not really.",218.383,219.45
+SPEAKER_00,I just think about it a lot.,219.47,220.879
+SPEAKER_01, You think about it?,221.061,221.633
+SPEAKER_01, Mm-hmm.,222.102,222.469
+, All right.,223.061,223.327
+SPEAKER_01," Is anything reminding you of the boxing match, and then that's causing you to have symptoms?",224.742,232.659
+SPEAKER_00," At the end of my meeting, people started clapping, you know, this big cheering,  and that kind of made me feel really bad.",233.923,242.711
+SPEAKER_00,"Again, my heart was racing.",244.255,245.639
+SPEAKER_00, I started sweating.,246.421,247.164
+SPEAKER_00,"It just kind of reminded me of being there, and I started thinking about it again.",247.224,250.796
+SPEAKER_00," So things like that, you know, I pump up music when it comes on the radio,  same kind of music they played there.",252.1,260.01
+SPEAKER_00,That kind of makes me feel the same way.,260.03,261.96
+SPEAKER_00, My heart starts to race.,262.682,263.826
+SPEAKER_00,I just kind of feel like I need to get away from it.,263.926,266.856
+SPEAKER_01," Do you find yourself working to avoid, like, music that was similar?",268.503,271.94
+SPEAKER_01, Yeah.,272.221,272.602
+SPEAKER_00,"I've been trying to really avoid the radio, because you never know what's going to come on on the radio.",272.622,278.0
+SPEAKER_00, So I've been avoiding listening to music in case something like that happens and avoiding crowds.,278.421,285.82
+SPEAKER_01, Do you find that you've had any trouble remembering what happened?,288.964,292.699
+SPEAKER_00," No, I can pretty vividly remember it.",294.787,297.839
+, It's pretty clear to you?,298.0,298.816
+SPEAKER_01," Yeah, when I think about it.",299.06,300.872
+SPEAKER_01, Have you been irritable at all since the...,303.785,305.96
+SPEAKER_00," Yeah, you know, just out of nowhere.",307.283,309.769
+SPEAKER_00,"If something doesn't go the way I want it to, I just kind of snap on people.",309.789,314.0
+SPEAKER_00, And that's not like me at all.,314.583,315.91
+SPEAKER_00,I usually am pretty easygoing.,316.653,318.0
+SPEAKER_00," And, you know, people, my boyfriend, for instance, I yelled at him the other day for not putting the toilet paper on the roll.",318.341,328.0
+SPEAKER_00, And that's not something I'd usually care about.,328.161,330.05
+SPEAKER_00,"It's just, it's not me.",330.07,331.96
+SPEAKER_01, How about your awareness level of what's around you?,334.644,337.831
+SPEAKER_01,"Do you find that your awareness level has increased, that you're more aware?",337.851,342.0
+SPEAKER_00," Um, it kind of depends.",342.341,347.653
+SPEAKER_00,Sometimes I kind of feel like I'm in a daze and don't really know what's going on around me.,347.673,350.94
+SPEAKER_00," But, um, I've been, um, one of the students that I work with, he popped out from behind the door, which he would do all the time.",352.922,364.0
+SPEAKER_00," And, you know, typically I would laugh and think it was funny before, but he did it the other day and I just could not control myself afterwards.",364.14,374.0
+SPEAKER_00," Like, I couldn't calm myself down.",374.0,376.226
+SPEAKER_00,"You know, I didn't think it was funny at all.",376.246,378.834
+SPEAKER_00,"It really, really scared me.",379.155,380.96
+SPEAKER_00," And that went on for about 10, 15 minutes and I just, my heart was racing.",381.04,388.756
+SPEAKER_00,I had to go take a walk.,388.776,390.76
+SPEAKER_00, And it was just really hard to relax again after that.,391.06,394.0
+SPEAKER_01, So you feel like your reaction to that was stronger than it normally would have been?,395.327,397.94
+SPEAKER_01, Definitely.,398.041,398.449
+SPEAKER_01, Yeah.,399.0,399.163
+SPEAKER_01, Have you used drugs or alcohol recently?,403.048,405.94
+SPEAKER_00, No.,406.51,406.612
+SPEAKER_01, No.,407.949,408.01
+SPEAKER_01,Any medical problems?,408.03,408.96
+, No.,409.714,409.898
+SPEAKER_01, No.,410.061,410.531
+SPEAKER_01," So Jackie, I'm going to get you in to see a counselor here at the agency if that's something that you're okay with.",412.364,418.0
+SPEAKER_00," Yeah, I think that would be really helpful.",418.0,419.535
+SPEAKER_01, Alright.,420.562,420.863
+SPEAKER_01,"Just take a couple days to get you on the, to get you in to see somebody, to get you on the schedule and get you in to see somebody.",420.883,426.0
+SPEAKER_01, And I'll get that arranged.,426.586,428.0
+SPEAKER_01, Okay.,428.122,428.265
+SPEAKER_01,Thank you.,428.286,428.653
+SPEAKER_01, Thanks.,429.612,429.878

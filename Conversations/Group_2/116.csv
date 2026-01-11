@@ -1,0 +1,573 @@
+speaker_id,utterance,start,end
+SPEAKER_00, I need an ambulance for my son.,3.99,5.133
+SPEAKER_00, Connecting you now.,9.013,9.699
+SPEAKER_00," Ambulance service, what is the address of your emergency?",10.665,12.877
+SPEAKER_01," 48 Stanford Road, Streatham.",13.904,15.293
+SPEAKER_00, What's the phone number you're calling from please?,16.26,17.69
+SPEAKER_01, 02086713322.,19.240000000000002,20.240000000000002
+SPEAKER_01, How old is your son?,20.682,21.325
+SPEAKER_00, 20.,24.240000000000002,25.240000000000002
+SPEAKER_00, What's the emergency?,25.24,25.995
+SPEAKER_00, Tell me exactly what's happened.,26.24,27.347
+SPEAKER_01," I don't know, there's something going on in his mind, he's talking about going on top of the roof.",29.5,33.098
+SPEAKER_00, Is he conscious?,33.562,34.215
+SPEAKER_00, Yes.,34.48,34.725
+SPEAKER_00, Is he breathing?,35.562,36.133
+SPEAKER_01, Yes.,37.133,37.378
+SPEAKER_00, Has he been violent at all?,38.49,39.46
+SPEAKER_01," God no, no.",39.48,40.46
+SPEAKER_00, Does he have a weapon?,42.232,43.037
+SPEAKER_01," Oh God no, John's not like that, look I'm just a bit worried about him, he's acting  a bit strange, he's talking about the MI5 training him and he hasn't been sleeping well  for the last week.",43.54,51.874
+SPEAKER_00, Has he done anything to harm himself?,52.18,53.736
+SPEAKER_01, No.,54.425,54.548
+SPEAKER_00, Is he thinking about committing suicide?,55.502,57.194
+SPEAKER_01," Look, I don't know, he's just been acting really strange and I think he might leave  the house, he's pacing around the room.",59.1,67.454
+SPEAKER_00, Is he completely alert?,68.624,69.55
+SPEAKER_01," Yes, look he's just pacing around the room, I don't know what's wrong with him, can you  please get someone here quickly?",71.542,78.657
+SPEAKER_00," OK, do you want me to speak to John?",79.202,80.556
+SPEAKER_01," No, I don't think I've come to the phone.",81.243,82.596
+SPEAKER_00," No problem, let John know we're organising the help for him now, OK, and please stay  on the line and I'll tell you exactly what to do, alright?",83.784,89.612
+SPEAKER_00," If it's safe to do so, stay with him and protect him from doing any harm to himself  and let the ambulance crew know of any medication that he takes and what doctor he's registered  with.",91.302,101.066
+SPEAKER_01," Yes, are you going to come here quickly?",102.263,103.995
+SPEAKER_00," If anything changes, please call us back immediately at 999 for further instructions, OK?",104.78,109.158
+SPEAKER_00, 48 yeah?,112.923,113.148
+SPEAKER_01," Yeah, that too.",114.023,114.912
+," Oh, amazing.",119.215,119.74
+SPEAKER_01," It's cold, isn't it?",123.528,124.336
+SPEAKER_01, It's the stars on the flight.,126.8,128.134
+SPEAKER_01," Oh, please.",132.087,132.74
+SPEAKER_01," Who is it, Mum?",133.087,133.699
+SPEAKER_01," Hi, come on.",133.862,134.719
+SPEAKER_01, It's alright.,135.005,135.372
+SPEAKER_01, It's alright.,135.842,136.372
+SPEAKER_01," Hello, how are you doing?",137.922,139.477
+SPEAKER_01, Hello.,140.127,140.352
+SPEAKER_01," Alright, I'm Craig, what's your name?",141.821,143.497
+SPEAKER_01, John.,144.678,144.76
+SPEAKER_01," John, how are you doing, John?",144.78,146.053
+SPEAKER_01," I'm here with Mum, we're just...",147.601,148.458
+SPEAKER_01, What's your mum's name?,148.621,149.336
+SPEAKER_01, Mary.,150.336,150.56
+SPEAKER_01," Mary, hi Mary.",150.927,151.54
+SPEAKER_01," Mother Mary and yeah, yeah, everything's fine.",151.821,156.56
+SPEAKER_01, Do you want your mum to tell me what's going on or why have you called us?,156.801,161.717
+SPEAKER_01, This is not him.,162.968,163.54
+SPEAKER_01," Right, OK.",164.213,164.56
+SPEAKER_01, I don't know what's going on.,164.742,166.54
+SPEAKER_01," OK, so have you got any medical conditions at all?",166.962,170.817
+SPEAKER_01, Do you take any medications or not got any conditions or take anything?,172.36,176.058
+SPEAKER_01, No.,176.911,176.972
+SPEAKER_01," John, what's going on?",177.38,178.673
+SPEAKER_01, Are you hearing voices or...?,179.764,180.794
+SPEAKER_01," It's just, um...",182.544,183.013
+SPEAKER_01, I'm doing a project and someone's talked to me and he's helping me.,185.843,188.32
+SPEAKER_01, Have you got your phone at the moment or...,188.683,189.956
+SPEAKER_01, You've got your earphones in?,191.107,192.36
+SPEAKER_01," No, I don't have a phone.",192.4,193.613
+SPEAKER_01," OK, is it alright if Emma just does a few checks on you?",195.984,198.34
+SPEAKER_01," Yeah, why not?",198.845,199.774
+SPEAKER_01,Of course.,199.794,200.259
+SPEAKER_01, Just do a couple of things like your blood sugar.,201.583,203.637
+SPEAKER_01," Yeah, yeah, blood sugar.",204.16,205.16
+SPEAKER_01," Yeah, just going to pop a little pro on your finger.",205.342,207.059
+SPEAKER_01, That's fine.,207.282,207.956
+SPEAKER_01, Yeah.,208.405,208.629
+SPEAKER_01, So what's been going on today?,210.323,211.16
+SPEAKER_01, Like a big bag.,211.18,211.854
+SPEAKER_01, Yeah.,212.405,212.65
+SPEAKER_01," Big bags, you know, go travelling, walking like hills and camping.",213.441,219.16
+SPEAKER_01, It's not this kind of bag that isn't.,219.382,221.14
+SPEAKER_01, That'd be a rucksack I'd have all my camping stuff in.,221.261,224.838
+SPEAKER_01, So what's been going on today with you John?,225.885,227.435
+SPEAKER_01, Um...,229.021,229.062
+SPEAKER_01, Just a bit...,230.144,230.736
+SPEAKER_01," A bit weak, tired, haven't really been sleeping.",232.564,234.92
+SPEAKER_01, I've been trying to focus on my project and it's demanding.,234.96,238.498
+SPEAKER_01," Really demanding, really demanding.",239.263,240.556
+SPEAKER_01, Did your mum know about this project?,240.96,242.354
+SPEAKER_01," No, this project's from university.",243.383,245.195
+SPEAKER_01, My teacher sent me lectures and I've got to create an airflow.,246.201,249.92
+SPEAKER_01, What university did you go to then?,250.182,251.576
+SPEAKER_01, Newcastle.,252.725,253.329
+SPEAKER_01,Newcastle's up north.,253.591,254.497
+SPEAKER_01, Newcastle's near Manchester.,255.303,256.859
+SPEAKER_01," Near Leeds, near Scotland.",257.76,259.295
+SPEAKER_01, And how come you're not there at the moment?,260.023,261.578
+SPEAKER_01," You're just going to take a little drop of blood from your finger, alright?",261.962,263.76
+SPEAKER_01," No, it's just a little scratch.",263.76,264.851
+SPEAKER_01, Is that alright?,266.76,267.25
+SPEAKER_01," Yeah, yeah, yeah.",268.005,268.76
+SPEAKER_00, How come you're not?,268.801,269.699
+SPEAKER_01, It's just going to hurt a little bit.,269.78,270.76
+SPEAKER_01," Oh, I'm strong, it won't hurt.",270.76,272.29
+SPEAKER_01," So how come you're not at uni at the moment then, today?",274.083,275.76
+SPEAKER_01," Um, it's half term, so I'm allowed to come back for...",276.525,278.76
+SPEAKER_00, Sorry.,280.903,281.229
+SPEAKER_01, Hurts a little bit.,281.76,282.74
+SPEAKER_01," Okay, so...",285.156,285.499
+SPEAKER_01, So...,285.682,285.846
+SPEAKER_01, You've got this...,286.846,287.417
+SPEAKER_01, I've got to do this project.,287.56,288.499
+SPEAKER_01," Oh, no, I shouldn't, wasn't that before?",288.621,290.52
+SPEAKER_01, You're meant to be back by now.,290.56,292.378
+SPEAKER_01," No, I could, basically, I could go and come back, go and come back when I like, because it's my project, so...",292.56,298.058
+SPEAKER_01, So what year of university are you in?,298.701,300.459
+SPEAKER_01," I'm in my second year, second year of university.",300.56,304.158
+SPEAKER_01," And it's three years, one, two, so I'm second year.",304.721,307.56
+SPEAKER_00," Yeah, yeah.",307.723,308.336
+SPEAKER_01," Is that right, mum?",308.964,310.237
+SPEAKER_01," Yes, it's in his second year.",310.6,312.479
+SPEAKER_01," He is, yeah, okay.",313.36,313.727
+SPEAKER_01," And he seems to have been spoiled, and it's just recently that this has started to happen.",314.742,318.999
+SPEAKER_01," Right, okay.",319.38,319.829
+SPEAKER_01," To come on, to create that, to fly, get some materials.",321.566,324.179
+SPEAKER_01," What's going on at the moment, John?",324.4,326.32
+SPEAKER_01, It's 5.2.,326.623,326.926
+SPEAKER_01," 5.2, cool.",328.602,328.744
+SPEAKER_01, John?,330.501,330.762
+SPEAKER_01,"John, are you alright?",331.707,332.852
+SPEAKER_01,What's going on?,333.295,333.817
+SPEAKER_01," Sorry, what's your name?",334.727,335.36
+SPEAKER_01, Craig.,335.85,336.033
+SPEAKER_01, Craig.,336.36,336.544
+SPEAKER_01," I'm from the ambulance service, remember, yeah?",337.36,338.36
+SPEAKER_01, Yes.,338.421,338.646
+SPEAKER_01, Yeah.,339.911,340.074
+SPEAKER_01," Hi, Craig.",340.707,340.87
+SPEAKER_01," So, your mum's a bit worried about...",342.261,344.475
+SPEAKER_01," You're very anxious, aren't you?",346.489,347.757
+SPEAKER_01," I've been up all night, slept for three hours, trying to really get it good.",348.24,353.739
+SPEAKER_01," I need to get good grades, otherwise I can't make it into the third year.",354.16,357.12
+SPEAKER_01, You said you haven't been sleeping well.,357.483,359.079
+SPEAKER_00, Just three hours.,359.731,360.14
+SPEAKER_01," How long has that been going on for, then?",360.261,361.675
+SPEAKER_01, I'd say about three weeks.,363.049,363.978
+SPEAKER_01, Yeah?,364.956,365.14
+SPEAKER_00, This week's been worse.,365.16,366.14
+SPEAKER_01, Two and a half weeks.,366.242,367.119
+SPEAKER_01," This thing's alright, two and a half.",367.16,368.14
+SPEAKER_01," I remember the day, and I've been counting every day since.",369.081,372.96
+SPEAKER_01, But you've noticed you haven't been sleeping yourself.,373.606,374.96
+SPEAKER_01," Yeah, but that's my choice.",374.96,375.858
+SPEAKER_01," I could go sleep before I need to, but I'm just too active, I've got a lot to do.",376.0,379.92
+SPEAKER_01," And I like to eat food, I like to play football.",380.645,382.678
+SPEAKER_01," With your food, do you have a balanced diet?",384.47,385.96
+SPEAKER_01," Yeah, a lot of bread, sandwiches.",387.249,388.658
+SPEAKER_01," I like KFC, everyone likes a bit of chicken.",389.483,391.94
+SPEAKER_01, Mum's disagreeing.,392.103,392.96
+SPEAKER_01," Yeah, you've not been eating that brilliantly, have you?",393.302,395.779
+SPEAKER_01, What about drinks?,396.923,397.76
+SPEAKER_01, Do you...,397.964,398.25
+SPEAKER_01," Fanta, Coke...",399.77,400.639
+SPEAKER_01, Much alcohol?,400.76,401.352
+SPEAKER_01, Any alcohol?,402.291,402.76
+SPEAKER_01, No?,403.066,403.189
+SPEAKER_01, No.,403.903,404.107
+SPEAKER_01, What about energy drinks and stuff like that?,404.76,405.76
+SPEAKER_01, Red Bull keeps me active.,406.042,407.492
+SPEAKER_01, I like Red Bull.,409.025,409.76
+SPEAKER_01, Do you drink a lot of it?,409.76,410.372
+SPEAKER_01, Probably two bottles a day.,410.76,411.638
+SPEAKER_01, Okay.,411.984,412.25
+SPEAKER_01, Not too bad.,412.78,413.27
+SPEAKER_01, No.,413.882,414.474
+SPEAKER_01," I should have stopped bleeding by now, so pop that off.",414.76,416.215
+SPEAKER_01," That should be fine, might give you a little tiny bruise.",418.288,420.519
+SPEAKER_01, And do you take any other kind of drugs at all?,421.805,424.74
+SPEAKER_01," Now, when your mum rang us, she said about you were thinking about going up on the roof or something like that?",426.763,432.56
+SPEAKER_01," Yeah, because it's for my project, I've got to create this amazing air flow and I could just fly off.",432.58,437.56
+SPEAKER_01," It's for a helicopter and it's really, really constructive and it'll get me a really good job and I want to do really well and be able to support myself.",437.901,446.179
+SPEAKER_01," So it wasn't... you were just going up on your roof for this project, you know?",447.042,450.5
+SPEAKER_01, There wasn't anything... you weren't going to do anything dangerous up there or anything like that.,451.36,454.878
+SPEAKER_01, Are you still in?,456.067,456.592
+SPEAKER_01, You alright?,457.727,458.074
+SPEAKER_01, Are you still with me?,458.724,459.35
+SPEAKER_01, Yeah.,460.401,460.605
+SPEAKER_01, Yeah.,461.36,461.523
+SPEAKER_01," X, Y.",463.148,464.077
+SPEAKER_01," It's quite complicated, but it links all together because when you've got X and Y, it equals Z and then my maths teacher used to tell me that formula and then that formula can really help you with lots of different situations and it's really great.",464.66,478.679
+SPEAKER_01, I think we're probably going to need to get you to come and talk to somebody.,480.642,484.357
+SPEAKER_01," I think you're having trouble kind of, you know, doing your normal activities.",485.361,491.14
+SPEAKER_01," I think that's a really good idea, don't you, John?",491.2,492.514
+SPEAKER_00, Why not?,493.18,493.527
+SPEAKER_01, You should go and sit down and have a conversation with me.,494.16,495.16
+SPEAKER_01, Why not?,495.303,495.609
+SPEAKER_01, Yeah.,496.425,496.813
+SPEAKER_01, So I think we're probably going to have to pop you down the hospital.,497.18,500.16
+SPEAKER_01, I think there's a few things going on at the moment.,500.321,502.294
+SPEAKER_01, Are you going to come with me?,503.527,504.16
+SPEAKER_01, Of course I'm coming with you.,504.18,505.615
+SPEAKER_01," Yeah, we should go.",506.364,506.936
+SPEAKER_01, Alright then.,507.487,507.813
+SPEAKER_01, Are you ready to come out then?,510.221,511.16
+SPEAKER_01, Get your bits together?,511.507,512.14
+SPEAKER_01, No.,515.364,515.527
+SPEAKER_01," No, no.",516.282,516.813
+SPEAKER_01, I want to stay here.,517.201,517.854
+SPEAKER_01, We just need to go and have a chat with someone.,520.261,522.12
+SPEAKER_00, No.,522.487,522.609
+SPEAKER_01," At the hospital, John.",523.16,524.14
+SPEAKER_01, I want to stay here.,524.584,525.312
+SPEAKER_01, I'm comfortable here.,526.402,527.514
+SPEAKER_00, Thank you.,528.303,528.589
+SPEAKER_01," John, your mum's going to come with you.",529.16,530.16
+SPEAKER_01, To go.,530.548,530.874
+SPEAKER_00, No.,531.752,531.895
+SPEAKER_01, What we're going to do is just go to the ambulance and we're going to have a drive.,532.16,534.16
+SPEAKER_01, No.,534.16,534.282
+SPEAKER_01, We're going to sit in it and it's going to make lots of noises.,535.16,536.897
+SPEAKER_01," Oh no, I don't like that idea.",537.262,538.119
+SPEAKER_01, I want to stay here.,538.96,539.899
+SPEAKER_01, I feel really warm and comfortable here.,540.062,540.96
+SPEAKER_01, I don't want to go outside.,540.96,541.695
+SPEAKER_01," Oh, I really thought I'd like you to go with them, John.",542.665,544.94
+SPEAKER_01, I'm coming with you too.,545.042,545.817
+SPEAKER_00, You really worry.,546.001,546.797
+SPEAKER_01," Mummy, mum, mum.",547.001,547.817
+SPEAKER_01, I'm staying here.,548.368,548.878
+SPEAKER_01, I'm okay.,549.389,549.96
+SPEAKER_01, I'm okay.,549.98,550.756
+SPEAKER_01, I'm okay.,551.307,551.817
+SPEAKER_01," John, John, you're really worrying your mum.",552.041,554.034
+SPEAKER_01, It'd make her feel better if you just came and had a quick chat with somebody.,554.98,558.598
+SPEAKER_01, We've spoken.,559.552,559.96
+SPEAKER_01," I know you've had a quick chat with me, but you need to speak to someone who's a little  bit more specialist at hospital.",560.864,566.96
+SPEAKER_00, It's fine.,567.287,567.531
+, It's fine.,569.168,569.638
+SPEAKER_01, Don't you want to speak to someone so they can understand this project that you're on?,572.222,575.338
+SPEAKER_01," John, listen to me.",575.882,576.76
+SPEAKER_01, There's somebody I know at the hospital who knows about this project.,576.981,579.76
+SPEAKER_01, Yeah.,580.536,580.74
+SPEAKER_01, Yeah.,581.025,581.25
+SPEAKER_01," So if you come and talk to him about it, I think he'll be able to help you.",581.76,584.418
+SPEAKER_01," Yeah, he can come here and he can help me.",584.78,586.114
+SPEAKER_01," Let's go there, John.",586.76,587.617
+SPEAKER_01, I think it'd be a really good idea.,587.76,589.154
+SPEAKER_01," Okay, let's go.",590.025,590.699
+SPEAKER_01, Let's go.,590.903,591.148
+SPEAKER_01, Let's go.,592.413,592.74
+SPEAKER_01, Let's go.,593.209,593.515
+SPEAKER_01, Come on then.,593.882,594.433
+SPEAKER_01," All right, let's go.",594.76,595.27
+SPEAKER_01, Let's go right now though.,595.76,596.658
+SPEAKER_01," Come on, John.",597.046,597.495
+SPEAKER_01, Let's go.,598.662,599.009
+SPEAKER_00, Just come round there.,602.989,603.56
+SPEAKER_00, Have a seat.,603.58,604.438
+SPEAKER_00, Have a seat in the ambulance.,604.56,605.274
+SPEAKER_00," Okay, just leave that.",605.784,606.54
+SPEAKER_00, Go on.,606.927,607.376
+SPEAKER_00, Leave it.,607.56,607.784
+SPEAKER_00, Just come and have a seat in the ambulance.,608.56,609.499
+SPEAKER_00, Thank you.,609.948,610.376
+SPEAKER_00, You have a seat there.,610.58,611.111
+SPEAKER_00," John, just have a seat on this one here.",611.641,612.969
+SPEAKER_01," That's it, John.",614.764,615.458
+SPEAKER_01, You sit there.,615.56,616.233
+SPEAKER_01, You go and sit down the book.,616.56,617.438
+SPEAKER_01," All right, John.",621.56,622.213
+SPEAKER_01," Just need to do your blood pressure, John.",622.58,623.54
+SPEAKER_01, So if you just want to slip this arm out of your jacket for me.,623.62,626.037
+SPEAKER_01," Okay, let's take this.",626.621,627.499
+," Okay, I'm done.",628.421,629.095
+SPEAKER_01," All right, just put this arm out of your jacket.",634.38,635.976
+, That's it.,636.993,637.36
+SPEAKER_01, Just pop that round your arm.,637.964,639.253
+SPEAKER_00, That's it.,640.38,640.646
+SPEAKER_01," All right, just relax your arm down there.",644.724,646.097
+SPEAKER_01," It's just going to get tight on there, all right?",646.36,647.734
+SPEAKER_01, And just do a bit of paperwork.,648.401,649.217
+SPEAKER_01, Hello there.,656.36,656.584
+SPEAKER_01, Really glad to see you.,658.609,659.099
+SPEAKER_01, I'm Mary.,659.364,660.099
+SPEAKER_01, Nice to meet you.,660.323,660.956
+SPEAKER_01, John.,661.691,661.895
+SPEAKER_01, You must be John's mum.,663.534,664.16
+SPEAKER_01, Nice to meet you.,664.201,665.119
+SPEAKER_01," Hi there, John.",665.242,665.711
+SPEAKER_01, I understand things have been quite difficult for you recently.,666.944,670.16
+SPEAKER_01," Yes, it has been.",672.527,673.099
+SPEAKER_01," John, the doctor's talking to you.",674.069,675.079
+SPEAKER_01," And big buildings, lots of people around me.",676.567,679.12
+SPEAKER_01," John, I understand that you've had some trouble sleeping  and also some trouble with your appetite.",681.321,688.034
+SPEAKER_01," So what I'd like to do, if that's all right,  is just I'd like to allow a physical cause  for any problems you might have been experiencing recently, if that's okay.",689.101,695.96
+SPEAKER_00, Yes.,696.062,696.225
+SPEAKER_01, Great.,697.409,697.613
+SPEAKER_01," And personally, what I'd like to do is I'd like to take some blood from you, John.",697.96,701.176
+SPEAKER_01, Just to see that everything's all right.,702.404,703.839
+SPEAKER_01," And also, I'd like to take a tracing of your heart  and I'd also like to briefly examine you just by talking to you.",704.543,711.518
+SPEAKER_01," You know when, the other day,  when I was trying to do my project and then...",712.123,716.157
+SPEAKER_00, I got a bit tired.,718.033,718.74
+SPEAKER_01, Did you hear what the doctor said?,718.76,719.76
+SPEAKER_01, Did you hear what he said?,719.76,720.76
+SPEAKER_01, He wants to just do some stuff on you.,720.78,721.74
+SPEAKER_01, Is that okay?,721.76,722.74
+SPEAKER_01, Is that okay?,722.76,723.76
+SPEAKER_01, Okay.,723.78,724.127
+SPEAKER_01, Great.,724.801,724.903
+SPEAKER_01," Thanks a lot, John.",726.005,726.76
+SPEAKER_01, I'm just going to...,726.882,727.454
+SPEAKER_01, I've seen that picture.,727.801,728.76
+SPEAKER_01, Has it got pictures of you when I was younger?,729.022,731.639
+SPEAKER_01," It hasn't got pictures of you, Janga.",732.063,733.255
+SPEAKER_01," It's got your medical notes, actually, John.",734.144,735.76
+SPEAKER_01, So just going back a little bit.,735.76,736.76
+SPEAKER_01, I'm fine.,736.923,737.291
+SPEAKER_01, I just want to go to the gym and do weights again.,737.8,741.7
+SPEAKER_01," I'm sure you do, John.",742.723,743.56
+SPEAKER_01, I've got a project to do because I'm at University of Newcastle  but I'm just back on half term.,743.762,747.075
+SPEAKER_01," And I'm back on half term, so it's helicopters and air flow  and I've just got to create...",747.58,753.499
+SPEAKER_01, It's really mad.,753.601,754.295
+SPEAKER_01," Yeah, I mean, hopefully you'll be back soon, John.",754.58,756.398
+SPEAKER_01," Great, John.",756.825,757.376
+SPEAKER_01, I'm just going to ask you a few questions if that's all right with you.,758.285,760.459
+SPEAKER_01, Yeah?,760.866,761.029
+SPEAKER_01," So first of all, I'd like to know,  have you had any headaches recently?",761.662,764.936
+, Ah!,766.38,766.482
+," John, have you experienced any headaches?",767.441,768.976
+SPEAKER_01, It has been a happy tour.,769.36,770.115
+SPEAKER_01, No.,770.482,770.544
+SPEAKER_01, Have you noticed any visual disturbances?,771.421,773.32
+SPEAKER_01, Have you noticed any problems with your eyesight seeing funny things?,774.145,776.058
+SPEAKER_01," Have you got my sunglasses, Mum?",776.4,777.693
+SPEAKER_01," OK, did you hear the doctor ask if you've had anything wrong with your eyes?",778.4,782.3
+SPEAKER_01, Have you had anything?,782.36,782.966
+, No?,785.727,785.911
+, No.,786.911,787.095
+SPEAKER_01, OK.,787.768,787.911
+SPEAKER_01," And just in terms of weakness,  have you felt weak at all recently, John?",788.666,791.36
+SPEAKER_01, Weaking of muscles?,791.442,792.054
+SPEAKER_01, Have you noticed anything?,792.36,793.074
+SPEAKER_01," He trains a lot, so I don't think so.",794.241,795.271
+SPEAKER_01, You don't think so?,796.67,797.16
+SPEAKER_01, OK.,797.344,797.466
+SPEAKER_01," And John, I'd just like to know whether you've had any problems  with chest pain recently?",798.22,803.008
+SPEAKER_01, Has that been a problem with your heart or...?,804.18,806.14
+SPEAKER_01, No.,806.18,806.221
+SPEAKER_01, No.,807.405,807.446
+SPEAKER_01, OK.,808.18,808.242
+SPEAKER_01, Anything with your heart beating or racing quite fast?,809.361,811.878
+SPEAKER_01," OK, John.",812.827,813.049
+SPEAKER_01," Can you see the doctor, man?",814.18,815.069
+SPEAKER_01," John, you're doing really well.",816.16,817.16
+, I know I'm not feeling well.,817.16,818.14
+SPEAKER_01, OK.,818.446,818.609
+SPEAKER_01, OK.,819.262,819.384
+SPEAKER_01," John, you're doing really well.",820.98,821.96
+SPEAKER_01, I know I'm asking a lot of questions here.,822.182,823.899
+SPEAKER_01, Have you had any experience of your heart racing or feeling quite...,827.265,830.94
+SPEAKER_01, Just...,830.96,831.144
+SPEAKER_01," I watch on Sundays, on Sundays, me and my mum sometimes,  at 12 o'clock we watch a Formula 1 and we'll see Lewis Hamilton  and he's racing and he's really fast in his first Mercedes car  and I really like it because they go faster.",831.96,841.778
+SPEAKER_01, I wanted to be a driver but I couldn't be a driver  so I looked at helicopters and I got an air float  and it went round and round and round and round and round.,841.96,847.94
+SPEAKER_01, So that's why I come to the conclusion that X and Y equals Z  because it's maths.,849.021,853.992
+SPEAKER_01," OK, John.",854.821,855.046
+SPEAKER_01," And in terms of tummy pain, have you noticed any pain in your tummy at all?",856.484,859.398
+SPEAKER_01, No.,862.801,862.944
+SPEAKER_01, And are you passing urine OK at the moment?,864.423,867.318
+SPEAKER_01, Is anything different passing urine at the moment?,869.368,871.378
+, No.,871.862,871.903
+SPEAKER_01, No.,872.842,873.025
+SPEAKER_01, And how about passing poos?,874.568,875.558
+SPEAKER_01, Is that all right?,875.801,876.638
+, No.,877.703,877.805
+SPEAKER_01, No.,878.621,879.356
+SPEAKER_01," No, no.",879.56,879.927
+SPEAKER_01," OK, great.",880.784,881.131
+SPEAKER_01, I apologise my hand's a bit cold but I'm just going to examine you  if that's all right.,882.183,886.934
+SPEAKER_01, Have you got any spice for me?,888.146,889.358
+SPEAKER_01," I should be all right, thank you very much.",890.509,891.56
+SPEAKER_01," First of all, would you like to put your hands up for me, please?",896.184,898.54
+SPEAKER_01, Come put out your hands.,899.744,900.56
+SPEAKER_01," Try and put your hands up for me, thank you.",900.782,902.479
+, Thank you.,907.642,908.009
+SPEAKER_01," OK, just put this.",908.823,910.499
+SPEAKER_01, Just listen to your pulse.,915.388,916.479
+SPEAKER_01," And, John, if you'd just like to look over to your left for me very briefly, please.",921.947,924.238
+, Thank you.,926.968,927.274
+SPEAKER_01, And I'm just going to place my fingers just under your eyelids.,928.526,930.56
+SPEAKER_01, I'm just going to...,930.805,931.478
+SPEAKER_01," If you'd like to open them slightly, John.",931.722,933.499
+SPEAKER_01," It won't hurt, I promise.",933.907,934.56
+SPEAKER_01," Great, that's perfect.",935.421,936.875
+SPEAKER_01, And if you'd just like to open your mouth to me very briefly.,937.722,940.34
+SPEAKER_01, Ah!,940.421,940.562
+SPEAKER_01, I'm just going to...,942.584,943.36
+SPEAKER_01, Just going to listen.,943.462,944.36
+SPEAKER_01, You might feel a little bit cold.,944.36,945.36
+SPEAKER_01, Boom.,945.421,945.584
+, That's great.,949.789,950.299
+SPEAKER_01, What are you doing?,950.825,951.39
+SPEAKER_01, I'm just listening to your heart.,952.36,953.217
+SPEAKER_01," No, no, no, I used to do this when I was younger.",953.744,955.219
+SPEAKER_01, I had one of these plastic chips and I used to play games.,955.36,957.239
+SPEAKER_01, What are you doing?,957.482,958.197
+SPEAKER_01, It's something similar.,958.462,959.319
+SPEAKER_01," I'm fine, no.",959.421,960.054
+SPEAKER_00, Doctor...,960.36,960.564
+SPEAKER_00, Doctor Bennett.,961.36,961.931
+SPEAKER_00, Bennett.,963.176,963.319
+SPEAKER_01, Yeah?,964.323,965.14
+SPEAKER_01, Any questions for me?,965.16,965.711
+SPEAKER_01," What does that mean, what you've done so far?",966.463,968.039
+SPEAKER_01," So I'm just going to give him a brief physical check,  just to make sure there's not anything wrong with him physically.",968.402,975.16
+SPEAKER_01, So I'm going to follow this up with blood tests and a tracing of his heart.,975.301,978.597
+SPEAKER_01, And then one of the other doctors is going to come...,979.965,982.059
+SPEAKER_01," Ah, that's like a maths test, an English test, a science test.",982.16,984.818
+SPEAKER_01, And you get blood tests as well.,985.16,986.038
+SPEAKER_01, It's probably in PE when you fall over and you hurt your knee and you've got to get plastic  and then that's where the blood comes from and it's like a blood test.,986.321,991.938
+SPEAKER_01, Have you seen this bed?,993.042,993.96
+SPEAKER_01, I've seen similar episodes before.,994.383,996.658
+SPEAKER_01," Thanks a lot, John.",997.429,997.96
+SPEAKER_01," I'm just going to pass my colleague over to come and speak to you if that's all right, yeah?",998.04,1002.639
+SPEAKER_01," That's been great, thank you.",1003.266,1003.96
+SPEAKER_01, Thank you.,1004.45,1004.838
+SPEAKER_01," Thank you, thank you.",1004.96,1005.552
+SPEAKER_01, John.,1008.001,1008.246
+SPEAKER_01," Hi, John.",1009.327,1009.654
+SPEAKER_01, Nice to meet you.,1010.021,1010.695
+SPEAKER_01, My name's Ruth.,1011.327,1011.94
+SPEAKER_01, I'm a psychiatry doctor here at the hospital.,1012.041,1013.96
+SPEAKER_01, And you must be John's mum.,1014.849,1015.96
+SPEAKER_01," Mary, nice to meet you.",1015.96,1016.674
+SPEAKER_01, My mother Mary.,1017.103,1017.511
+SPEAKER_01," I see, OK.",1018.0,1018.364
+SPEAKER_01," John, my colleague Ben, the A&E doctor that you just met, has asked me to have a chat with you.",1020.0,1026.62
+SPEAKER_01, Would that be all right?,1026.76,1027.576
+SPEAKER_01, I understand that you've been having quite a stressful few days.,1029.78,1032.398
+SPEAKER_01," Yes, yes, he has.",1033.76,1034.638
+SPEAKER_01, It's been a very stressful week.,1034.76,1036.794
+SPEAKER_01, This last week's been really bad.,1038.841,1040.275
+SPEAKER_01, And I got some of the story about what's been happening.,1041.404,1043.599
+SPEAKER_01," John, are you hearing someone speak to you?",1045.443,1048.579
+SPEAKER_01, What's happening at the minute?,1049.56,1050.356
+SPEAKER_01, Who's speaking to you?,1050.56,1051.438
+SPEAKER_01, X.,1053.662,1053.682
+SPEAKER_01, Yes.,1056.376,1056.499
+SPEAKER_01, Who is X?,1056.907,1057.356
+SPEAKER_01, I'm not telling you.,1061.56,1062.54
+SPEAKER_01, Why don't you want to tell me?,1064.56,1065.348
+SPEAKER_01," Remember you told me who it was, John.",1068.56,1069.934
+SPEAKER_01, Why don't you tell her who it was?,1070.58,1072.459
+, Shh.,1072.642,1072.907
+SPEAKER_01," He thinks it's the MI5 that's, um, communicating with him.",1076.107,1078.938
+SPEAKER_01, And they're following him and they're giving instructions.,1079.561,1082.36
+SPEAKER_01," So he's told you about this, Mary?",1083.461,1085.279
+SPEAKER_01, Yeah.,1085.401,1085.87
+SPEAKER_01," They're trading him, apparently.",1086.36,1088.158
+SPEAKER_01, OK.,1088.666,1088.748
+SPEAKER_01, Together.,1089.707,1090.34
+SPEAKER_01, I've got a witness.,1090.482,1091.115
+SPEAKER_01, John?,1091.36,1091.564
+SPEAKER_01, Win the game.,1092.36,1092.911
+SPEAKER_01," John, sorry to interrupt you, John.",1093.36,1094.613
+SPEAKER_01, Running fast.,1095.809,1096.36
+SPEAKER_01, Tell me what X is saying to you at the minute.,1097.36,1099.36
+SPEAKER_01, John.,1100.36,1100.462
+SPEAKER_01," And then, I'm going to tell you what X is saying to you.",1101.744,1103.36
+SPEAKER_01, John.,1104.16,1104.323
+SPEAKER_01, It's just getting progressively worse.,1106.281,1107.776
+SPEAKER_01," And then, airflow.",1108.262,1109.058
+SPEAKER_01, And then...,1112.405,1112.67
+SPEAKER_01," John, I heard you mention the word project.",1113.2,1114.998
+SPEAKER_01, What's the project about?,1115.402,1116.372
+SPEAKER_01, Project university.,1117.625,1118.635
+SPEAKER_01," It's not a university project, is it, John?",1120.16,1122.059
+SPEAKER_01, Meaning X project.,1126.221,1127.453
+SPEAKER_01," Yeah, but it's not a university project, is it?",1128.16,1130.395
+SPEAKER_01," OK, so what is the project about, John?",1132.243,1133.879
+SPEAKER_01, I need to create an airflow.,1135.96,1137.273
+SPEAKER_01," X is helping me and, yeah, go round and round and be successful.",1138.04,1141.96
+SPEAKER_01, So X is telling you how to do this project and what to do.,1143.96,1146.96
+SPEAKER_01, Is that right?,1148.266,1148.817
+SPEAKER_01, Does X ever tell you anything that causes you to be afraid?,1151.02,1154.96
+SPEAKER_01, Yeah.,1157.246,1157.45
+SPEAKER_01, What does X tell you?,1158.081,1159.394
+SPEAKER_01, Stuff.,1160.944,1161.699
+SPEAKER_01, Does X ever tell you to harm anybody?,1161.8,1164.659
+SPEAKER_01, Yeah.,1164.78,1164.944
+SPEAKER_01, Yeah.,1165.78,1166.005
+SPEAKER_01, Yeah.,1166.984,1167.189
+SPEAKER_01, OK.,1167.923,1168.066
+SPEAKER_01," Did you hear the question, John?",1168.76,1169.76
+SPEAKER_01, Yeah.,1170.291,1170.495
+SPEAKER_01, Does X ask you to hurt anybody?,1170.76,1172.699
+SPEAKER_01, I can't tell you.,1175.76,1176.536
+SPEAKER_01," Well, that's not his personality.",1177.76,1178.719
+SPEAKER_01, He wouldn't do that.,1178.76,1179.678
+SPEAKER_01," No, so you don't think that he would act on anything?",1180.424,1182.7
+SPEAKER_01, I don't know anymore.,1182.841,1184.639
+SPEAKER_01, I don't know.,1185.025,1185.74
+SPEAKER_01, I don't know.,1185.78,1186.617
+SPEAKER_01," And, John, has X ever told you to hurt yourself or to harm yourself in any way?",1187.56,1193.5
+SPEAKER_01, I can't tell you nothing.,1201.744,1202.519
+SPEAKER_01, I can't tell you nothing.,1203.267,1204.116
+SPEAKER_01, Can I tell you a bit about what I know about the story?,1204.56,1206.734
+SPEAKER_01," I heard, John, that you were on the roof or trying to...",1207.841,1210.897
+SPEAKER_01, I was on that roof.,1211.968,1212.54
+SPEAKER_01, And X helps me.,1213.36,1213.911
+SPEAKER_01," He tells me to do all these things and, you know...",1214.36,1215.916
+SPEAKER_01, What's he telling you to do?,1216.564,1217.278
+SPEAKER_01," I just get a bit, like...",1217.36,1218.36
+SPEAKER_01," John, what is he telling you to do?",1218.36,1219.36
+SPEAKER_01," A bit frantic and, you know, but...",1219.501,1221.259
+SPEAKER_01," John, John.",1221.36,1222.319
+SPEAKER_01," What was he telling you to do on the roof, John?",1222.521,1224.716
+SPEAKER_01," John, what did he tell you to do on the roof?",1231.38,1233.219
+SPEAKER_01, Jump.,1238.36,1238.482
+SPEAKER_01, To jump from the roof.,1239.803,1241.353
+SPEAKER_01, Fly.,1243.262,1243.813
+SPEAKER_01," John, that seems a bit dangerous to throw yourself off the roof.",1244.944,1248.039
+SPEAKER_01, Do you not think that that would have consequences?,1248.321,1250.959
+SPEAKER_01, Like a bird.,1251.16,1251.731
+SPEAKER_01, What's the time?,1252.16,1252.65
+, OK.,1253.833,1253.874
+SPEAKER_01, Can I explain what I think might be going on with John?,1254.301,1257.039
+SPEAKER_00," Yes, please.",1257.323,1258.017
+SPEAKER_01," It seems to me that he's talking, as you said, about MI5 and about X.",1258.762,1261.634
+SPEAKER_01, He seems to be calling some unusual beliefs about his involvement with the project.,1264.384,1269.14
+SPEAKER_01, He's described some risky behaviour.,1270.282,1272.96
+SPEAKER_01," What I think will need to happen, I think John must come into hospital...",1273.744,1276.94
+SPEAKER_01, OK.,1277.246,1277.307
+SPEAKER_01, ..for a period of assessment so we can find out what's going on  and what's causing these symptoms.,1278.786,1282.007
+SPEAKER_01," So it would be just coming in the daytime, as if there's a day of the night.",1284.322,1287.94
+SPEAKER_01," Mum, let's go home.",1287.96,1288.94
+SPEAKER_01, We're not going to...,1289.103,1289.756
+SPEAKER_00, I'm not going nowhere.,1290.368,1290.96
+SPEAKER_01, Let's go home.,1290.98,1291.96
+SPEAKER_01, We're going to...,1292.001,1292.633
+SPEAKER_01," Like, I'm going home.",1292.96,1293.96
+SPEAKER_01, He's just finished talking to the baby.,1293.98,1294.94
+SPEAKER_01, He's told me I've got to go home.,1295.082,1295.96
+SPEAKER_01, He needs me.,1296.062,1296.858
+SPEAKER_01, I'm not going nowhere.,1296.98,1297.96
+SPEAKER_01," OK, John.",1297.96,1298.246
+SPEAKER_01, It's all right.,1299.144,1299.654
+SPEAKER_01,Settle down.,1299.674,1299.96
+SPEAKER_01, Right.,1300.144,1300.47
+SPEAKER_01, I'm just telling your mum what the plan is going to be.,1300.96,1303.94
+SPEAKER_01, I think...,1304.715,1304.94
+SPEAKER_00, Time.,1304.96,1305.184
+SPEAKER_01,I need to go.,1305.287,1305.878
+SPEAKER_01," I think you need to come into hospital, John,  so that we can check what's causing these unusual beliefs.",1305.96,1311.92
+SPEAKER_01," So what I'm going to do now,  I'm going to try to organise what's called a Mental Health Act assessment.",1314.504,1319.96
+SPEAKER_01," I'm going to ask two of my senior psychiatry colleagues  to come and have a chat with John,  as well as an approved social worker.",1320.765,1327.96
+SPEAKER_01, And decide whether John needs to come into hospital  as a detained patient under section.,1330.025,1336.94
+SPEAKER_01, OK.,1337.184,1337.266
+SPEAKER_01, But that's what the Mental Health Act assessment will figure out.,1338.623,1341.9
+SPEAKER_01, They speak to him.,1342.021,1342.858
+SPEAKER_01, That's what they will work out.,1343.021,1343.919
+SPEAKER_00, Yeah.,1343.96,1344.062
+SPEAKER_01," So when he comes in, I will be able to come in every day",1345.603,1348.96
+SPEAKER_00, and sit him in there?,1349.082,1349.756
+SPEAKER_01," Oh, absolutely.",1350.001,1350.776
+SPEAKER_01, OK.,1351.266,1351.593
+SPEAKER_01," OK, so I'll go and arrange that now.",1352.122,1353.778
+SPEAKER_01, I'll come back and have a chat with you  if you've got any more questions.,1354.384,1356.96
+SPEAKER_01, OK.,1357.021,1357.082
+SPEAKER_01," All right, thank you very much.",1358.122,1359.233
+SPEAKER_01, I'm not going nowhere.,1362.021,1362.776
+SPEAKER_01, I've got to finish this project with X.,1362.96,1363.919
+SPEAKER_01, John?,1364.184,1364.368
+SPEAKER_00,John?,1364.389,1364.531
+SPEAKER_01, I'm not going nowhere.,1365.243,1366.738
+SPEAKER_01," John, this is going to make you feel better.",1367.122,1368.859

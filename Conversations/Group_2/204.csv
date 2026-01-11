@@ -1,0 +1,137 @@
+speaker_id,utterance,start,end
+SPEAKER_01," Well, hi Miss Clark.",1.124,1.827
+SPEAKER_01,My name is Alan Lime.,2.088,2.912
+SPEAKER_01,I'm a social worker at the Family Health Center.,2.972,4.618
+SPEAKER_01, Dr. Seal asked me if I would spend some time with you today.,5.602,8.233
+SPEAKER_01,I'm really glad that you're here.,8.253,9.598
+SPEAKER_01, I'm just curious as to why he would send you to me.,10.0,11.535
+SPEAKER_00," Well, I came to see Dr. Seal last week because of increasing stress and anxiety  that's kind of getting the best of me.",12.602,18.466
+SPEAKER_00,"In the course of my appointment with him,  he was asking how I was dealing with that stress.",19.249,24.308
+SPEAKER_00,And I mentioned that my one or two glasses of wine  a few nights a week is turning into more frequent in maybe three or four on some nights.,24.428,33.478
+SPEAKER_00, And he had some concerns about that and felt like maybe you could help me with stress or something.,34.0,43.519
+SPEAKER_01," Yeah, so he asked you to see me because you went to him for increased stress  and he's concerned that your alcohol consumption may be a part of that increase.",44.261,53.658
+SPEAKER_01," Prior to prescribing you anything, you wanted to make sure that you at least had someone to talk to about that.",54.402,58.0
+SPEAKER_01, I suppose.,58.0,58.469
+SPEAKER_00, Okay.,59.564,59.805
+SPEAKER_01,I saw that you filled in one of the pink sheets.,60.228,61.477
+SPEAKER_01,Can I take a look at that?,61.497,62.0
+SPEAKER_00," Yeah, he told me to fill that out and bring it with me.",62.04,63.899
+SPEAKER_01," Okay, thank you.",64.1,65.143
+SPEAKER_01,So you say here that you have four or more drinks in one week.,66.206,71.0
+SPEAKER_01, You mentioned that you may be increasing that a little bit as well.,72.206,74.94
+SPEAKER_01, And that you have one or two drinks in one setting.,75.081,78.0
+SPEAKER_01, Typically.,78.02,78.265
+SPEAKER_01," Yeah, and maybe monthly you have more than that.",79.341,83.011
+SPEAKER_00,What kind of drinks do you have?,83.032,84.054
+SPEAKER_01, What do you drink when you typically drink?,86.586,87.879
+SPEAKER_00, Wine with my meals.,88.08,89.803
+SPEAKER_00,"Again, one or two typically and more frequently three or four since my stress has increased.",91.165,101.94
+SPEAKER_01," So it's starting to increase, you're starting to drink a little more.",102.322,104.174
+SPEAKER_01," Based on what you put here, it gives you six points on this scale.",105.602,108.793
+SPEAKER_01,The scale ranges from zero to forty.,109.395,110.98
+SPEAKER_01, So six points will put you in what we would consider an at-risk zone.,111.724,114.839
+SPEAKER_01," So if it's okay with you, I'll just talk a little bit about that.",116.668,118.879
+SPEAKER_00, Okay.,119.224,119.49
+SPEAKER_01," So the at-risk zone, say it runs zero to forty, it's not a super high risk, but it certainly could be a risk for maybe increasing stress,  maybe some physical ailments related to alcohol as well.",121.003,131.0
+SPEAKER_01, Could start to show up if you were to increase your drinking from there or even stay there.,131.883,136.478
+SPEAKER_01, This is a typical standard drink size over here.,137.321,139.708
+SPEAKER_01,I'm not sure whether that fits your description of a glass of wine or not.,139.728,143.499
+SPEAKER_00," I filled a glass up, so maybe a little more than that.",144.0,146.617
+SPEAKER_01," Yeah, maybe a little space at the top.",147.0,148.305
+SPEAKER_01,So perhaps a drink and a half each one.,148.325,149.691
+SPEAKER_01,So that also increases a little bit more.,150.012,151.518
+SPEAKER_01, So perhaps maybe drinking more than you indicated on here.,152.0,154.658
+SPEAKER_01," And for a healthy woman your age, no more than three drinks in one setting is considered to be lower or no risk and no more than seven in one week.",155.361,163.88
+SPEAKER_00, Seven total in one week?,164.184,164.98
+SPEAKER_01, Seven total in one week.,165.04,165.983
+SPEAKER_01,"And what you say here is that even on this sheet, you are perhaps already drinking more than that.",166.043,170.498
+SPEAKER_01, So what do you make of all that?,171.707,172.616
+SPEAKER_00, That's news to me.,173.541,176.106
+SPEAKER_00,"I thought red wine with your meals is supposed to be healthy and no more than seven in a week, that seems kind of prohibitive.",176.126,183.98
+SPEAKER_01," Yeah, it seems a little less than perhaps you've been drinking or what you consider to be healthy drinking.",184.0,189.639
+SPEAKER_01, And certainly there's conflicting information out there about what's healthy and what's not healthy.,190.261,194.618
+SPEAKER_01, I imagine the increased stress is what concerns Dr. Seal as your stress increases.,195.582,201.378
+SPEAKER_01," And if he were to prescribe you anything, maybe some interaction between the two that would also be a concern for him, I would think.",202.02,208.438
+SPEAKER_01," So if you would, what is it that you like about alcohol?",209.624,211.94
+SPEAKER_00," Well, you know, it does at least in the moment temporarily reduce my stress.",212.723,216.96
+SPEAKER_00," And I, you know, like a good glass of wine.",217.461,220.871
+SPEAKER_00,I don't drink the cheap stuff.,220.911,222.516
+SPEAKER_00,I like the expensive.,222.616,223.88
+SPEAKER_01, So you like the taste of it and it does help to lower the stress significantly for that time you're drinking.,224.622,228.98
+SPEAKER_01, What are the lots of good things about alcohol for you?,229.0,231.899
+SPEAKER_00," Well, you know, the nights that maybe I have a couple more glasses than I should, I wake up feeling kind of yuck.",234.446,240.0
+SPEAKER_00," And of course, part of my stress is finances and I mentioned I like the good stuff.",240.261,245.96
+SPEAKER_00, And so if I'm drinking more than I'm increasing my financial burden.,246.924,251.0
+SPEAKER_01, So your financial stress may be increased by the fact that you're drinking.,252.084,255.92
+SPEAKER_00," Yeah, kind of defeating the purpose there.",256.302,260.0
+SPEAKER_01," On the catch-22, they're drinking to do stress and increasing stress at the same time.",260.06,263.0
+SPEAKER_01," So on the one hand it lowers it and on the other hand it's increasing, kind of the see-saw, tita-tare effect there.",263.12,269.0
+SPEAKER_01," What do you make of that, given that on one hand it lowers and the other hand it increases and now it's increasing even more?",271.384,276.619
+SPEAKER_00, Maybe I need to find some other way to deal with my stress.,277.563,279.995
+SPEAKER_01, I imagine you've had some thoughts with that.,282.787,284.233
+SPEAKER_01,"What have you thought of trying, if anything?",284.273,285.92
+SPEAKER_00," Well, I've exercised in the past and that helps.",286.502,289.672
+SPEAKER_00,Right now my schedule is kind of out of whack.,290.194,292.0
+SPEAKER_00, And I just really don't know what to do.,292.361,295.775
+SPEAKER_00,That's why I came to see Dr. Seal.,295.815,296.98
+SPEAKER_00, I thought maybe he could prescribe me something that would help me when I'm feeling overwhelmed.,297.12,301.96
+SPEAKER_01, And he may be able to.,302.483,303.309
+SPEAKER_01,I'm not saying that he cannot.,303.389,304.376
+SPEAKER_01," I'm just imagining that he's concerned that if you continue to drink on the level that you are drinking,  that whatever he prescribes you, there may be an interaction with the two.",305.0,313.216
+SPEAKER_01, I imagine that's his concern.,314.261,315.628
+SPEAKER_01,I'm not completely sure.,316.432,317.377
+SPEAKER_01, So you've had some success in the past with changing behaviors.,318.04,320.819
+SPEAKER_01," And if you were to decide to make any changes here, it sounds like you could draw upon that to make those changes.",321.502,326.619
+SPEAKER_01, How important would it be for you on a scale of 0 through 10?,327.482,330.153
+SPEAKER_01,I have a little visual here of that.,330.213,332.0
+SPEAKER_01," If 0 is not important and 10 is very important, to do something about your drinking right now.",332.964,336.94
+SPEAKER_00," Well, I mean, if it means that it's increasing my stress and or he's not going to prescribe me anything because of my drinking,  then it's fairly important, maybe about a 7.",338.042,350.195
+SPEAKER_01, That's pretty up there.,351.642,353.308
+SPEAKER_01,"Why did you choose a 7, not a 5 or a 4?",353.609,354.953
+SPEAKER_00," Well, again, I've got to get things under control.",357.322,359.638
+SPEAKER_00, My kids are dependent on me and I've got to go to work to help ease this financial stress.,360.04,367.719
+SPEAKER_00, And so all those responsibilities make it...,368.543,371.98
+SPEAKER_01, So there's a lot riding on your decision here on what to do with this.,372.02,374.819
+SPEAKER_01," What, if anything, would bring it up to an 8 or 9 on that scale?",375.383,377.758
+SPEAKER_00," Well, the risk that you mentioned about the drug interaction, I certainly can't afford to have any more stress.",381.22,391.98
+SPEAKER_01, So you choose to lower your stress rather than increase it.,395.141,397.98
+SPEAKER_01," And if lowering your drinking would have that effect, that's something you'd be willing to do right now.",398.522,402.719
+SPEAKER_01, How confident are you that you could do something about your drinking?,403.564,405.98
+SPEAKER_00," Pretty confident, probably about a 7 or an 8.",408.463,410.98
+SPEAKER_01," Okay, so it's pretty high up there again.",411.242,413.0
+SPEAKER_01," And what, if anything, would you choose to do?",413.626,414.98
+SPEAKER_01, Would it be to cut down?,415.04,416.611
+SPEAKER_01,Would it be to quit?,416.631,417.235
+SPEAKER_01,I'm just curious about what you're...,417.255,418.0
+SPEAKER_00," Well, like I said, I like a good glass of wine.",418.101,420.894
+SPEAKER_00,I don't want to quit altogether.,420.915,421.96
+SPEAKER_00, I'd be willing to try cutting that.,422.242,424.839
+SPEAKER_00," But now if Dr. Seal would agree to prescribe me something for the anxiety,  and it meant that I had to not drink at all, I'd be willing to do that at least for a period of time.",425.241,436.0
+SPEAKER_01, So you'd be willing to stop altogether.,436.261,438.513
+SPEAKER_01,That's what was indicated by the physician.,438.573,439.96
+SPEAKER_01, Okay.,440.1,441.885
+SPEAKER_01,"So based on that, how ready are you to do anything right now, whether it's to cut back, whether it's to quit?",442.266,447.98
+SPEAKER_00," Well, again, if I can get something to help me manage, if maybe I can find some other way to deal with the stress,  then I'd be pretty ready.",449.043,459.471
+SPEAKER_00,"Again, maybe about on that scale, maybe an 8.",460.454,462.619
+SPEAKER_01," Okay, so that's pretty high up there as well.",463.161,465.195
+SPEAKER_01," It sounds as though you're pretty motivated to do something about this right now,  given your responsibilities, given your children, relying at this point.",466.523,473.337
+SPEAKER_01," And just on lowering your anxiety in general, it sounds that that's one of your goals as well.",474.321,478.157
+SPEAKER_01," Well, I'm pretty confident that once you decide to do whatever it is you decide to do,  you'll be able to follow through with that based on your experience in the past of making behavior changes,  I imagine there's some things there you can draw upon.",479.161,489.953
+SPEAKER_01," What's one thing that you could do, I imagine you thought of some things, that might help to lower your stress?",491.261,495.936
+SPEAKER_00," Well, the exercise, but again, that's kind of difficult to fit in right now.",497.862,502.195
+SPEAKER_00," Hoping that Dr. Seal will prescribe something for me to take when I'm feeling particularly overwhelmed  and maybe just having somebody to talk to, to bounce some things off of.",504.301,514.98
+SPEAKER_01, One of the things we can offer here is for you to come in and talk to one of our behavioral health specialists.,515.904,520.0
+SPEAKER_01," We may be able to help you talk through this area of your life, this area of increased stress,  and some responsibility there.",520.08,526.596
+SPEAKER_01," And we can make an appointment for you if you like, before you leave today, to talk to somebody.",527.925,530.98
+SPEAKER_01, That'd be nice.,531.184,531.612
+SPEAKER_00, Great.,532.361,532.581
+SPEAKER_01,"I also have some information here if you're interested, a pamphlet on alcohol and what healthy limits are  and how it may be affected by medications that you take as well.",532.982,543.0
+SPEAKER_01, Okay.,543.143,543.286
+SPEAKER_01, And I wish you lots of luck.,545.124,546.51
+SPEAKER_01,It sounds as though you're really committed to making this shift and this change.,546.53,549.0
+SPEAKER_01, And I imagine Dr. Seal will want to follow up with you and see how you do with your change within a few weeks.,550.223,555.92
+SPEAKER_01, Okay.,556.082,556.163
+SPEAKER_01," And again, I look forward to speaking to you in the future.",557.282,560.0
+SPEAKER_01, All right.,560.02,560.245
+SPEAKER_01,Thank you very much.,560.265,561.0
+SPEAKER_00, You're very welcome.,561.061,561.959

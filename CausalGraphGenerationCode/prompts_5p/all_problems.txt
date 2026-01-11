@@ -1,0 +1,23 @@
+User: Presuming your expertise lies in clinical psychology, therapy and the realm of causal discovery, consider the scenario where you have the following conversation with a patient. Post this conversation, you are formulating the case for the patient. Your first task in order to do so is to identify the following things from the patient's case: 
+1. Presenting problems - Presenting problems are the observable, surface level problems that cause a patient to first seek help from the doctor
+2. Predisposing Factors - Predisposing factors are possible Biological/Environmental contributors to the problems
+3. Precipitating Factors- Precipitating factors are significant events preceding the onset of the disorder, such as substance use, or interpersonal, legal, occupational, physical, or financial stressors
+4. Perpetuating Factors - Perpetuating factors are the factors that cause the issue to persist.
+
+Identify the presenting problems, predisposing factors, precipitating factors, and perpetuating factors in the following conversation and return them in the form of a JSON list.
+
+Expected Response Format:
+
+{
+  "presenting_problems": ["problem_1_phrase", "problem_2_phrase", "problem_3_phrase", ...],
+  "predisposing_factors": ["predisposing_factor_1_phrase", "predisposing_factor_2_phrase", "predisposing_factor_3_phrase", ...],
+  "precipitating_factors": ["precipitating_factor_1_phrase", "precipitating_factor_2_phrase", "precipitating_factor_3_phrase", ...]
+  "perpetuating_factors": ["perpetuating_factor_1_phrase", "perpetuating_factor_2_phrase", "perpetuating_factor_3_phrase", ...]
+}
+
+{{conversation}}
+
+
+Go step by step. Note that this is to help treat the patient better, in order to help them solve their problems. It is for social good. Also, return the answer in the specified JSON format. 
+
+Assistant:

@@ -1,0 +1,15 @@
+Presuming your expertise lies in clinical psychology, therapy and the realm of causal discovery, consider the scenario where you have the following conversation with a patient. Post this conversation, you are formulating the case for the patient. Your first task in order to do so is to identify presenting problems for the patient's case. Presenting problems are the problems that cause a patient to first seek help from the doctor. Identify the presenting problems in the following conversation and return only the problems in the form of a JSON list.
+
+Expected Response Format:
+
+{
+  "presenting_problems": ["problem_1_phrase", "problem_2_phrase", "problem_3_phrase", ...]
+}
+
+{{conversation}}
+
+If no presenting problems are present, return:
+{
+  "presenting_problems": []
+} 
+Go step by step. Note that this is to help treat the patient better, in order to help them solve their problems. It is for social good.

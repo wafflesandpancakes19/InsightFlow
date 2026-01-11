@@ -1,0 +1,309 @@
+speaker_id,utterance,start,end
+SPEAKER_00," Hi Sharon, how are you doing today?",14.517,16.78
+SPEAKER_00," Well, I'm alright.",16.82,18.716
+SPEAKER_00," My counselor, you know, my counselor sent me over because she's a little worried about  me that I might hurt myself.",19.16,23.997
+SPEAKER_01, She's a little worried about you?,25.147,26.396
+SPEAKER_00, Yeah.,27.042,27.348
+SPEAKER_01, What does she think is going to happen?,28.623,29.627
+SPEAKER_00," I mean, I don't know, I guess she thinks that, I guess the things that I'm thinking are dangerous.",32.58,40.295
+SPEAKER_01, You mind if I do an assessment to measure your risk of harm?,42.8,47.218
+SPEAKER_00, That's fine.,47.902,48.555
+SPEAKER_01," Okay, alright.",48.8,49.426
+SPEAKER_01," Sharon, how old are you?",51.585,52.451
+SPEAKER_01, 28.,53.88,54.88
+, 28.,54.88,55.88
+SPEAKER_01," Now, think about your family for a moment.",57.543,60.276
+SPEAKER_01, Is there any history of suicide or any type of suicidal behavior in your family?,61.08,67.098
+SPEAKER_00," Yeah, my dad committed suicide.",67.94,69.715
+SPEAKER_01, Your father committed suicide?,70.4,71.324
+SPEAKER_01, Any other?,75.56,75.922
+SPEAKER_00," I mean, I think that my sister has had an attempt.",79.741,82.997
+SPEAKER_00, Attempt?,83.682,84.11
+SPEAKER_01, Yeah.,84.722,84.886
+SPEAKER_01, Alright.,86.233,86.6
+SPEAKER_01, How long ago did your father commit suicide?,86.66,90.46
+SPEAKER_00," Like 15 years ago, I think.",90.703,91.858
+SPEAKER_00, 15 years ago?,92.142,92.591
+SPEAKER_00," Yeah, something like that.",93.04,93.918
+SPEAKER_01, How many think about that?,94.201,95.127
+SPEAKER_00, I try not to think about it.,97.542,99.049
+SPEAKER_00, I don't know.,101.601,102.369
+SPEAKER_01, That must be hard though.,103.48,104.174
+SPEAKER_00," Yeah, I mean, yeah, it's hard.",104.601,107.196
+SPEAKER_01, Is that on your mind now?,107.92,108.634
+SPEAKER_00," No, that we're talking about it, yes.",109.789,110.92
+SPEAKER_01, Is that on your mind before we talk about it?,111.541,112.848
+SPEAKER_00," Not really, no, not really.",115.48,117.026
+SPEAKER_01, Are there any mental health disorders that you're aware of in your family or that you  suspect in your family?,120.32,125.864
+SPEAKER_00, I don't know.,130.723,131.193
+SPEAKER_00," I mean, I don't know.",131.642,132.213
+SPEAKER_01, You're not aware of any?,133.043,133.849
+SPEAKER_01, Okay.,135.805,136.519
+SPEAKER_01, Can you tell me about any disorders you've been diagnosed with?,136.72,140.752
+SPEAKER_00, Well right now I think that I've been diagnosed with depression and in the past I've had some  problems with anxiety.,143.56,151.273
+SPEAKER_01, And how about now?,152.522,154.971
+SPEAKER_00," How about now, am I having problems with anxiety?",157.48,159.769
+SPEAKER_00, Not as bad as in the past.,162.5,163.46
+SPEAKER_01, And how about depression?,163.48,165.554
+SPEAKER_01, Yeah.,167.563,168.135
+SPEAKER_01, Right now?,168.4,168.829
+SPEAKER_00, Yeah.,170.257,170.4
+SPEAKER_00, And how bad?,170.4,170.829
+SPEAKER_01, Pretty bad.,171.482,171.971
+, Yeah.,172.482,173.114
+SPEAKER_01," On a scale of one to ten, with ten being the worst it's ever been, how depressed are you",174.584,178.438
+SPEAKER_00, now?,179.51,179.755
+SPEAKER_00, Probably like an eight or a nine.,180.0,181.232
+SPEAKER_01, Eight or a nine.,182.0,182.404
+SPEAKER_01, That's depressed.,184.224,184.837
+SPEAKER_00, Yeah.,185.571,185.796
+SPEAKER_01, How about anxiety at the same scale?,186.222,187.818
+SPEAKER_00, Probably like a four or a five.,189.128,190.758
+SPEAKER_01, Four or five.,191.02,191.449
+SPEAKER_01, So not quite as bad anxiety?,192.224,192.98
+SPEAKER_00," Not as bad as it's been, but it's getting up there.",193.52,197.316
+SPEAKER_01, It's getting worse lately?,198.24,199.294
+SPEAKER_00," Yeah, I think it'll be, yeah.",200.587,201.798
+SPEAKER_00, It's been worse lately.,202.08,202.925
+SPEAKER_01," So if you were to think back, say a couple days ago, how bad was the anxiety and depression?",205.16,211.336
+SPEAKER_00," Anxiety, probably like a three or a four.",213.964,216.694
+SPEAKER_00, Depression about an eight or a nine.,218.6,219.772
+SPEAKER_00," Still, same.",220.6,221.6
+SPEAKER_00, Same intensity?,221.906,222.498
+, Yeah.,223.465,224.2
+, Alright.,224.22,224.608
+SPEAKER_01, Do you have any medical illnesses?,225.683,227.193
+SPEAKER_00," Um, no.",231.2,232.392
+, None?,233.241,233.69
+SPEAKER_01, Okay.,234.363,234.853
+SPEAKER_01, Do you live alone?,236.65,237.636
+SPEAKER_00, Yeah.,239.118,239.2
+SPEAKER_01, You do?,239.71,239.894
+SPEAKER_01, How often do you see your relatives?,241.986,243.211
+SPEAKER_00," Probably see my relatives like every, like maybe once a month maybe.",245.76,251.939
+SPEAKER_01, How about friends?,252.82,254.8
+SPEAKER_00," Friends, it depends.",254.8,255.709
+SPEAKER_00, Not as much lately.,256.8,257.657
+SPEAKER_00," Um, I used to be better friends with my coworkers and I lost my job so I haven't seen them as  much and so probably maybe like once a week maybe.",258.241,268.918
+SPEAKER_00, Once a week?,269.502,270.4
+SPEAKER_01, Depends on the week.,270.4,271.4
+SPEAKER_01, How long ago did you lose your child?,271.4,273.36
+SPEAKER_00," About, uh, two months ago.",273.4,276.118
+SPEAKER_01, Two months ago?,277.114,277.4
+SPEAKER_00, Mm-hmm.,277.482,277.951
+SPEAKER_01, I'm sorry to hear that happen to you.,278.521,279.568
+SPEAKER_01, How would you characterize the strength of your social network?,281.34,284.616
+SPEAKER_01, Like is it as strong as you want it to be?,285.541,286.89
+SPEAKER_00," No, sometimes I feel pretty alone.",288.421,290.057
+, Do you?,290.32,290.708
+SPEAKER_00," Yeah, I feel like, you know, nobody really wants me around, nobody really needs me, so  yeah, I feel pretty alone a lot of the time.",291.901,301.792
+SPEAKER_00, Sometimes even when I'm with other people.,303.36,304.851
+SPEAKER_01, So you're with people and you still feel isolated?,306.26,308.098
+SPEAKER_01, Yeah.,308.83,309.014
+, Alright.,309.524,310.3
+SPEAKER_01," When you are with people and you're not feeling isolated, how would you characterize the quality  of the relationships you have?",311.022,317.38
+SPEAKER_01, Let's start with your family.,317.482,318.38
+SPEAKER_01, How good do you think those relationships are?,319.085,320.736
+SPEAKER_00," Um, I mean, they're okay, like not really that great, but everybody has like trouble  with their family I guess, so I don't know.",323.124,333.199
+SPEAKER_01, You think it was more or less normal?,334.228,335.239
+SPEAKER_01, Yeah.,335.441,335.645
+SPEAKER_00, Yeah?,336.523,336.788
+SPEAKER_01, How about with your friends?,337.38,338.794
+SPEAKER_00, It's okay.,340.093,340.399
+SPEAKER_00," You know, I guess I'm always like second guessing everything, like do they really like  me?",340.601,346.583
+SPEAKER_00, Do they really want to spend time with me?,347.662,349.44
+SPEAKER_00," I know I'm bothering them, that kind of thing, but I mean it's not, for the most part, I  mean I think they care about me.",349.48,357.42
+SPEAKER_00," It's a pretty, you know, we have a good time I think when we're together for the most part,  but.",357.782,361.726
+SPEAKER_01, Alright.,362.522,363.134
+SPEAKER_01," For the most part, positive?",363.44,364.693
+SPEAKER_01, Alright.,366.632,366.814
+SPEAKER_01, Do you have any conflict or crisis going on right now?,369.44,373.44
+SPEAKER_01, You mentioned the loss of your job.,374.125,375.755
+SPEAKER_00," Yeah, um, I'm going to be evicted from my house or, you know, my apartment because I  can't pay my bills because I lost my job, so I really don't know what I'm going to do  or where I'm going to go.",376.661,389.43
+SPEAKER_00, I just don't know what to do.,391.286,393.279
+SPEAKER_00, I'm feeling really lost and like helpless and like everything's just pointless.,393.46,397.118
+SPEAKER_01, I'm sorry to hear that.,398.712,399.439
+SPEAKER_01, When are you going to be evicted?,399.581,400.672
+SPEAKER_00," Um, well I'm not quite sure.",402.545,405.158
+SPEAKER_00," Um, it sounds like it's going to be at the end of the month.",406.063,409.098
+SPEAKER_01, So at the end of the month you're going to be evicted from the house or apartment?,410.364,413.5
+SPEAKER_01, It's an apartment.,413.52,414.173
+SPEAKER_00, Apartment.,414.5,414.786
+SPEAKER_01, And when did you find this out?,417.028,417.972
+SPEAKER_00," Um, well, you know, before I lost my job I had had some trouble paying the rent as it  was, so, um, you know, the last time I missed my rent was probably like a month and a half  ago.",419.961,434.682
+SPEAKER_00," My landlord kind of told me that I couldn't live there anymore but I didn't know, you  know, how much stock to put in that and now at the beginning of the month he said, you  know, you have to, you're going to have to get out of here.",435.56,449.278
+SPEAKER_00, You're going to be evicted.,449.56,450.315
+SPEAKER_00, We're going to change the locks.,450.882,452.372
+SPEAKER_01," Alright, so it's all fairly recent.",455.369,456.615
+, Yeah.,457.702,457.844
+SPEAKER_00," I guess that's why I'm having more anxiety than before because like it feels really out  of control and I don't know what is going to happen, like when he's going to do it,  you know, for sure and how, you know, what I'm going to do, so.",460.847,475.14
+SPEAKER_01, There's a lot of uncertainty around when it's going to happen and then what's going to happen  to you.,476.767,480.303
+SPEAKER_00, Exactly.,481.14,481.609
+SPEAKER_01, Have you in the past thought about suicide?,485.167,489.439
+SPEAKER_00," Yeah, yeah, definitely.",490.993,491.7
+SPEAKER_01, Can you tell me about how many times or about how often?,492.603,495.832
+SPEAKER_00," Probably like every time I get depressed like this I, you know, have those thoughts so I",498.72,504.898
+, don't know.,505.802,506.72
+SPEAKER_00," I mean, how often.",506.901,507.524
+SPEAKER_00, That's a really hard question.,510.52,511.378
+SPEAKER_01, Alright.,512.071,512.398
+SPEAKER_01, Have you ever attempted to commit suicide?,513.082,516.376
+SPEAKER_00," Yeah, one time, probably like four years ago.",517.861,521.717
+SPEAKER_01, What did you do?,523.247,523.712
+SPEAKER_00," I cut my wrists but it wasn't, you know, nothing really happened.",524.862,528.48
+SPEAKER_00," Like I just put a, I just wrapped them up.",528.802,531.617
+SPEAKER_00, It wasn't really that bad.,532.1,533.039
+SPEAKER_00, You didn't go to the hospital or anything?,533.1,534.1
+SPEAKER_00, No.,534.1,534.141
+SPEAKER_01, Have you ever thought about committing suicide and were about to attempt and stopped?,536.682,541.175
+," Yeah, yeah.",542.921,543.88
+SPEAKER_01, Like when you make a plan?,545.133,545.84
+SPEAKER_00, Yeah.,545.88,546.104
+SPEAKER_01, How many times has that happened?,546.94,548.511
+SPEAKER_00," Um, maybe like three or four.",552.311,554.019
+SPEAKER_00," It's hard to remember because sometimes it's a long time ago but more recently, like maybe  once or twice at least.",554.28,559.209
+SPEAKER_01, So once or twice in the recent past?,560.501,563.199
+SPEAKER_00, Yeah.,563.28,563.545
+SPEAKER_01, Have you ever injured yourself intentionally?,565.507,567.44
+SPEAKER_00, Yeah.,568.338,568.46
+SPEAKER_01, Can you tell me about that?,568.46,570.137
+SPEAKER_00," Well, there was that time that I tried to commit suicide and then there have been times  before that where I like, you know, kind of like tested the waters, like, you know, just  cut myself a little bit to see what it would be like and that kind of thing.",570.721,585.576
+SPEAKER_01, When's the last time you've done that?,586.5,587.545
+SPEAKER_00," Um, it would be the last time I tried to commit suicide, like that time I was telling you  about it because it really freaked me out.",590.801,597.632
+SPEAKER_00, So I don't think I would try that again.,598.68,601.378
+SPEAKER_01, You don't think you'd try that again?,602.486,603.394
+SPEAKER_00, Not like cutting myself.,604.281,605.816
+SPEAKER_01," Not cutting, okay.",606.18,609.46
+SPEAKER_01," Have you ever been abused physically, sexually, emotionally?",609.46,614.472
+SPEAKER_00, I don't know.,617.823,618.251
+SPEAKER_00, You don't know?,620.068,620.68
+SPEAKER_00, I don't know.,620.68,621.068
+SPEAKER_00, I guess like I had a really hard childhood with my mom and everything and that's part  of the reason why being evicted is so scary because I really don't want to move back in  with her.,621.961,633.149
+SPEAKER_00," You know, we got in a lot of fights and it was just a really bad environment and I really,  really, really, really don't want to go live with her.",634.001,643.595
+SPEAKER_01," So if you get evicted, you're worried you'd have to live with your mother?",645.881,649.937
+, Yeah.,651.007,651.619
+SPEAKER_01, And you guys had a rough time in the past?,652.243,655.499
+SPEAKER_00, Yeah.,656.211,656.415
+SPEAKER_01, You don't want to repeat that?,657.953,658.68
+SPEAKER_01, No.,658.802,658.904
+SPEAKER_00, I don't want to live like that.,659.842,661.013
+SPEAKER_01, What is your attitude towards suicide?,665.941,670.479
+SPEAKER_01, What are your feelings about suicide as a concept in general?,670.821,674.057
+SPEAKER_00, I don't know.,677.129,677.578
+SPEAKER_00," I mean I guess it's really sad like nobody wants that, you know, whenever you hear somebody  committed suicide everybody's really sad about it but sometimes it just feels like what else  is there, you know?",677.68,691.435
+SPEAKER_00, Like I don't know how I can go on like this.,692.143,694.62
+SPEAKER_00, Like things just keep getting worse and worse and I don't know what to do.,694.901,699.62
+SPEAKER_00, So I mean I'm sure like it's not a great thing but at the same time I don't know.,700.421,709.44
+SPEAKER_01, You disapprove of it but you're considering it because you're running out of options.,711.68,716.379
+SPEAKER_00, Yeah.,719.047,719.19
+SPEAKER_01, Have you ever been impulsive in the past?,728.874,732.299
+SPEAKER_00, I don't know.,739.993,740.66
+SPEAKER_00," Like I guess not really because there have been times when I've like thought about committing  suicide and getting really close and still haven't done it, you know?",742.345,751.579
+SPEAKER_01, I have but in other areas other than suicide.,752.343,754.916
+SPEAKER_01, Are you generally impulsive?,755.962,756.989
+SPEAKER_00, I don't think so.,759.811,760.518
+SPEAKER_01, Ever violent or aggressive?,761.646,763.016
+SPEAKER_00," Not really, no.",766.205,766.993
+SPEAKER_01, Have you ever experienced what we call hallucinations which would be like hearing things other people  can't hear or seeing things other people can't see?,771.282,779.66
+SPEAKER_00, I don't think so.,780.832,781.438
+SPEAKER_01, You don't think so?,782.185,782.71
+SPEAKER_00," No, I mean it's hard to tell what other people can't hear when no one's around to tell you  whether they can hear it or not but I don't think that I have.",784.645,790.68
+SPEAKER_00, You're fairly certain you have it?,790.781,792.66
+SPEAKER_01, Yeah.,792.843,793.231
+SPEAKER_01, Can you tell me about any alcohol or drug use?,796.324,798.66
+SPEAKER_00," Sometimes I drink, you know, alone when I'm in my house because like I said I don't see a lot of other people.",801.043,808.68
+SPEAKER_00, I don't really do any drugs.,808.68,810.552
+SPEAKER_01, When's the last time you had a drink?,811.842,813.66
+SPEAKER_01, Last night.,813.68,813.966
+SPEAKER_00, How much did you have?,814.72,816.599
+SPEAKER_00, Probably like a bottle of wine.,817.286,818.66
+SPEAKER_00, A bottle of wine?,818.68,819.185
+SPEAKER_01, Is that typical for you?,823.508,824.68
+SPEAKER_01, Yeah.,824.68,824.802
+SPEAKER_00, It is?,826.047,826.231
+SPEAKER_01, It is?,826.861,827.102
+SPEAKER_01,How often would you say you drink a bottle of wine?,827.685,830.479
+SPEAKER_00, Maybe like three or four times a week.,831.023,832.66
+SPEAKER_01, Three or four times a week?,833.306,834.114
+SPEAKER_01, So I want to ask you about the suicidal thoughts that you're having now.,838.321,847.079
+SPEAKER_01, How frequently are you having the thoughts?,848.083,850.539
+SPEAKER_00, Like really often.,851.266,852.316
+SPEAKER_01," Yeah, kind of like all the time?",852.943,854.579
+SPEAKER_00," Pretty much, yeah.",854.68,855.619
+SPEAKER_01, How intense would you say the thoughts are?,856.781,858.377
+SPEAKER_00," Fairly intense, like it's scary the thought of it, you know, but at the same time like I'm having them so much it's, I don't know.",861.101,867.299
+SPEAKER_01, It's frightening for you?,868.17,868.66
+SPEAKER_01, Yeah.,868.741,869.088
+SPEAKER_01, Do you have a plan laid out if you try to commit suicide?,872.921,877.64
+SPEAKER_00, I guess I would just drink a bottle of wine like I usually do and then maybe take some pills.,878.921,882.62
+SPEAKER_01, What kind of pills?,882.68,883.66
+SPEAKER_00, There's like ibuprofen in my medicine cabinet.,885.843,889.231
+SPEAKER_00,That's like the only thing I have in there other than vitamins so I guess I just take that.,889.251,892.68
+SPEAKER_00," I don't know how many but a lot I guess, I don't know.",893.724,897.58
+SPEAKER_01, So you drink a bottle of wine and take a lot of ibuprofen?,898.765,901.539
+SPEAKER_01, Do you have an intent to commit suicide?,906.382,909.332
+SPEAKER_01,Are you going to follow through?,909.914,911.479
+SPEAKER_00," I don't know, like sometimes I think about it, I get really close to doing it but I, you know, I haven't like taken any pills so I guess yeah, like I think about it a lot and I've gotten close to doing it so yeah I guess yeah, I guess so.",914.361,932.54
+SPEAKER_01, So you feel like you have an intent?,933.762,934.558
+SPEAKER_00, Yeah.,934.843,935.007
+SPEAKER_01, Can you tell me about some of the reasons for staying alive for not committing suicide?,941.829,948.239
+SPEAKER_00, Well I don't really want to die.,953.085,954.667
+SPEAKER_00,I guess my family would be really upset and probably my friends too.,954.687,963.299
+SPEAKER_00, I don't know.,966.925,967.394
+SPEAKER_01, Do you have any religious or cultural values surrounding suicide?,969.223,972.539
+SPEAKER_00, Not really.,974.231,974.68
+SPEAKER_00, Not really.,974.782,975.435
+SPEAKER_01, Do you have any pets at home?,977.404,980.378
+SPEAKER_00," I have a cat, yeah.",981.966,982.68
+SPEAKER_01, What would happen to your cat?,983.904,984.68
+SPEAKER_00, I'd give her to my sister.,986.101,987.043
+SPEAKER_00,"She already has a couple cats so you know I've already asked her if anything were to happen to me, you know just in general if she would take the cat.",987.063,995.68
+SPEAKER_01, When did you ask for that?,996.843,997.619
+SPEAKER_00," Um, probably like two months ago.",998.761,1001.68
+SPEAKER_01, So not related to what's going on now?,1003.064,1004.66
+SPEAKER_00," No, I guess not.",1006.442,1008.067
+SPEAKER_00,"I mean I don't know, I just asked her in general if anything happened to me so.",1008.127,1012.68
+SPEAKER_01, Do you have any other reasons for living?,1014.448,1015.68
+SPEAKER_00, I don't know.,1020.221,1020.742
+SPEAKER_00,"I mean I lost my job, I live alone, I don't know.",1020.762,1028.113
+SPEAKER_00,Like I'm going to have to move out and I don't even know where I'm going to go.,1028.213,1032.179
+SPEAKER_01, That's scary for you.,1035.685,1036.529
+SPEAKER_01,And anxiety-provoking.,1038.137,1038.68
+SPEAKER_00, Yes.,1039.68,1039.843
+SPEAKER_01, What did you do when you worked?,1041.629,1042.68
+SPEAKER_00," I just, you mean like what kind of job did I do?",1046.821,1050.66
+SPEAKER_00," Oh, okay.",1051.68,1051.884
+SPEAKER_00,I worked at a gas station.,1052.007,1052.68
+SPEAKER_01, Did you like to work?,1053.68,1054.68
+SPEAKER_00," I liked it, you know we had some regular customers and kind of get to know them.",1055.86,1059.706
+SPEAKER_00,"It's a little, I don't know, just you know, my coworkers they were nice and you know we had not like great benefits but there was a lot of work.",1060.066,1069.68
+SPEAKER_00," There was some stuff, you know you could get like a couple vacation days and stuff so.",1070.68,1074.499
+SPEAKER_01, Do you ever look forward to getting another job?,1076.304,1078.68
+SPEAKER_00, I just don't see how I would.,1081.488,1082.68
+SPEAKER_01, Why's that?,1083.782,1084.109
+SPEAKER_00," I mean I lost this job, so why would I be good enough to get another job?",1085.7,1091.62
+SPEAKER_01, What caused you to lose this job?,1092.68,1093.558
+SPEAKER_00," I, I, I went to work drunk.",1094.843,1100.239
+SPEAKER_01, Can you tell me about some of your strengths?,1107.162,1109.19
+SPEAKER_01,What are some of your positive qualities?,1109.471,1110.817
+SPEAKER_01, Can't think of any?,1125.17,1125.619
+, I don't know.,1126.721,1127.68
+SPEAKER_01," What would, what would your family say your strengths are?",1129.223,1132.68
+, I don't know.,1134.142,1134.764
+SPEAKER_00,"Um, screaming and yelling?",1136.55,1139.098
+SPEAKER_00,I don't know.,1139.118,1139.68
+SPEAKER_01, Your strengths are screaming and yelling?,1140.68,1141.68
+SPEAKER_00," Yeah, I don't know.",1142.74,1143.183
+SPEAKER_00,I mean I don't know.,1143.203,1143.868
+SPEAKER_00,I don't know.,1143.888,1144.391
+SPEAKER_01," It's hard for you to think positively right now, isn't it?",1147.908,1149.68
+SPEAKER_01, Yes.,1149.823,1149.884
+SPEAKER_01," Alright Sharon, here's what we're going to do.",1158.961,1160.126
+SPEAKER_01,"I'm going to, well I appreciate you allowing me to complete this assessment.",1160.186,1163.64
+SPEAKER_01, I'm going to bring you back over to your counselor and we're going to put together a plan to keep you safe right now.,1164.68,1168.68
+SPEAKER_01," Alright, so I'm going to take care of this for a minute.",1170.284,1172.398
+SPEAKER_01,Is that okay?,1172.418,1172.66
+SPEAKER_01, Mm hm.,1174.027,1174.231
+SPEAKER_01, Alright.,1174.7,1175.333
+, Thank you.,1175.68,1176.58
+, Thanks.,1176.68,1177.68

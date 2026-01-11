@@ -1,0 +1,178 @@
+speaker_id,utterance,start,end
+, Music,0.441,0.722
+SPEAKER_01," Hi Julie, how are you?",7.441,8.416
+SPEAKER_01," Hi, I'm good thanks.",8.741,9.657
+SPEAKER_01," I'm Natasha, welcome to the service.",9.901,11.519
+SPEAKER_01, Nice to meet you Natasha.,11.661,12.7
+SPEAKER_01, Nice to meet you too.,12.781,13.496
+SPEAKER_01, Do you want to have a seat?,13.701,14.439
+SPEAKER_01," Natasha, thank you for coming today.",14.48,15.91
+SPEAKER_01, How did you get here?,17.502,18.099
+SPEAKER_01, Did you travel by car or train?,18.12,19.939
+SPEAKER_01, How did you find the traffic?,20.0,21.054
+SPEAKER_00," Yeah, I drove today and the traffic wasn't too bad actually.",21.56,24.66
+SPEAKER_00, I got here in about 15 or 20 minutes.,24.7,25.973
+SPEAKER_00," Oh, that's good.",26.865,27.32
+SPEAKER_00, I was held up.,27.32,27.999
+SPEAKER_01, There was a big smash on the road so it took me a little bit longer.,28.08,31.12
+SPEAKER_01, So I'm glad that you were able to make it in.,31.2,32.715
+SPEAKER_01, Thank you.,33.241,33.633
+SPEAKER_01, That's good.,33.9,34.451
+SPEAKER_01," Julie, I'm glad that you've made the effort to come in today.",34.98,37.859
+SPEAKER_01, How did you hear about our service?,38.02,39.313
+SPEAKER_00," Well, I was talking to a friend and saying that I thought I might benefit from having a chat to somebody.",39.98,45.018
+SPEAKER_00, And she told me that one of her friends had actually come to your service before and said that it was very good.,45.54,50.619
+SPEAKER_00, Excellent.,51.081,51.591
+SPEAKER_01," Well, thank you for coming in.",52.12,53.272
+SPEAKER_01," When you came in, you filled out some forms, which the girls have given me, which is great.",54.04,57.72
+SPEAKER_01, So that gives me a little bit of a background to where you're from and things of that nature.,57.8,62.478
+SPEAKER_01, And I just wanted to start by saying that our service is a counselling service for women.,63.081,68.139
+SPEAKER_01," And therefore you fit that category, which is really good.",68.761,71.577
+SPEAKER_01," Now, I just wanted to let you know that this is our first initial interview, I guess.",72.16,77.479
+SPEAKER_01," So today we will be just setting some, I'll be hearing some of your story.",77.72,81.698
+SPEAKER_01, And we'll work through a little bit of a process.,82.341,84.499
+SPEAKER_01, And then I'm sure we'll get the opportunity to meet again.,84.68,87.136
+SPEAKER_01, Is that okay?,87.843,88.272
+SPEAKER_01, That sounds good.,88.64,89.45
+SPEAKER_01,Thank you.,89.491,89.916
+SPEAKER_01, Excellent.,90.281,90.77
+SPEAKER_01," Now, within the pack that I've given you, or the girls at the front have given you, Julie,  there is some information on how we keep your privacy and confidentiality.",91.762,101.1
+SPEAKER_01, So I just wanted to clarify that before we go into our session today.,101.28,105.316
+SPEAKER_01," So within the community centre here,  we do, everything that you say to me today is kept within a confidential environment.",106.34,116.418
+SPEAKER_01," However, I am a mandatory reporter, which means that if you tell me something that I feel that  you may be at risk, or you may be at risk of harm to yourself or hurting someone else.",116.96,126.598
+SPEAKER_01," If you have children, if they may be at risk, or if you're participating in illegal activity,  I am a mandatory reporter, and I will need to let somebody know about that  so that we can try to get you some help and assistance in dealing with that particular situation.",127.24,140.078
+SPEAKER_01, Is that okay?,140.582,141.213
+SPEAKER_01," Yes, that's fine.",141.701,142.648
+SPEAKER_01,I understand.,142.688,143.414
+SPEAKER_01,Thank you.,143.434,143.978
+SPEAKER_01, Excellent.,144.403,144.871
+SPEAKER_01," So Julie, let's just start by, what has brought you here today?",145.44,149.835
+SPEAKER_00," Well, my husband and I have been fighting on and off the last couple of months,  and I'm just noticing that we can't seem to come to any agreement lately.",151.3,163.297
+SPEAKER_00," I'm losing sleep, I'm feeling exhausted,  and I'm at a point where I feel like I might like to leave the marriage.",164.261,171.157
+SPEAKER_01, Okay.,172.061,172.404
+SPEAKER_01,How long have you been married for?,172.464,173.876
+SPEAKER_00, We've been together for eight years.,174.642,176.076
+SPEAKER_01," Oh, wow.",176.902,177.384
+SPEAKER_01,Okay.,177.404,177.766
+SPEAKER_01,That's a decent amount of time.,178.248,180.679
+SPEAKER_01, Yeah.,181.124,181.371
+SPEAKER_00, And do you have any children?,181.7,182.774
+SPEAKER_00," Yes, we have three children.",183.3,184.627
+SPEAKER_00,"I have two little ones that are under five,  and we have a seven-year-old who's at school.",184.647,189.236
+SPEAKER_00, Okay.,189.801,190.083
+SPEAKER_00,So you must be kept busy then?,190.123,191.635
+SPEAKER_00, I'm always very busy.,192.34,193.388
+SPEAKER_00,"There's just always so much to do,  and I'm really feeling very tired.",193.428,196.837
+SPEAKER_00, Okay.,197.2,198.666
+SPEAKER_00,"And the children today, whereabouts?",198.686,200.313
+SPEAKER_00,Who's looking after them today for you?,200.353,202.1
+SPEAKER_00," Well, my two younger children today are being cared for by my mum,  and my oldest one is at school today.",202.22,207.597
+SPEAKER_00, Excellent.,208.041,208.505
+SPEAKER_00,And where's your husband today?,208.727,209.977
+SPEAKER_00, He's gone to work.,210.503,211.374
+SPEAKER_01, Okay.,211.941,212.386
+SPEAKER_01,That's good.,212.548,213.054
+SPEAKER_01," So it seems as if you're at a point in your marriage where you're feeling  as if the marriage has changed a little bit, and it's focused,  and you're kind of a little bit worried about what the future holds  for yourself and your husband.",213.701,229.135
+SPEAKER_00, I am.,229.941,230.442
+SPEAKER_00,"I feel now that I can't come to any solution with the problems,  and he's been drinking a lot, and he always enjoyed a social drink  when we first got married, but I'm noticing now that he's drinking more and more.",231.083,246.66
+SPEAKER_00," He seems to be drinking most days of the week, and when he does drink,  he's very, very difficult to talk to.",246.74,252.551
+SPEAKER_01, So the alcohol seems to be a problem.,254.081,256.998
+SPEAKER_01, Do you think that might be relating to the changing behaviour  that you mentioned earlier?,257.401,261.153
+SPEAKER_00," Yes, I do.",262.021,262.644
+SPEAKER_00,"I think that the drinking has definitely changed his behaviour  significantly, and he's very unreasonable, and he has a very short fuse.",262.664,270.64
+SPEAKER_00," He's very, very easy to make angry over the smallest of things.",270.74,276.017
+SPEAKER_00, OK.,277.161,277.522
+SPEAKER_01,So that must be difficult for you and the children.,278.003,282.98
+SPEAKER_01, Have you noticed if the children have picked up on the change in his behaviour?,283.361,287.256
+SPEAKER_00," Well, he does have a very good relationship with the children,  and he actively participates in their daily lives,  and the children haven't mentioned anything to me,  and they don't seem to have changed their behaviour in any way.",288.541,300.337
+SPEAKER_00, The arguments don't tend to happen in front of the children either.,300.981,303.798
+SPEAKER_01, OK.,304.301,304.763
+SPEAKER_01,Are the arguments something that...,305.226,307.779
+SPEAKER_01," Is it over more trivial things, or are there big, key things  that you're kind of arguing with him about?",307.94,314.695
+SPEAKER_00," Well, the arguments can start over something small.",315.501,318.137
+SPEAKER_00, It can be just a simple argument over a task in the house.,318.64,322.357
+SPEAKER_00," That can escalate into an argument about his family,  or about my mother, or about money issues,  and it just seems to escalate out of control.",322.98,332.675
+, OK.,333.4,333.822
+SPEAKER_01,"So, Julie, have you...",334.727,335.952
+SPEAKER_01," In terms of his drinking,  I'm kind of just trying to ascertain maybe what has developed in your marriage  that's taken you to the point that potentially, you know,  you've come to see me today.",337.982,350.255
+SPEAKER_01," And it appears as if the drinking is really the focus  of perhaps your feeling of, you know,  wanting to disconnect from the marriage  and feeling isolated within the marriage.",350.901,364.18
+SPEAKER_01, Would that be right?,364.281,365.735
+SPEAKER_00, That's true.,366.321,367.41
+SPEAKER_00,That's right.,367.531,368.157
+SPEAKER_00," I think the drinking is my main issue with his behaviour,  and I think the drinking is greatly contributing  to the way that he's behaving towards me.",368.681,379.652
+SPEAKER_01, Have you spoken to him about this?,381.041,383.433
+SPEAKER_00, I have.,384.901,385.444
+SPEAKER_00,"I've tried to talk to him about the drinking a couple of times,  and he just gets very, very defensive with me.",385.665,390.495
+SPEAKER_01, Potentially he's not acknowledging then that he may have a drinking problem.,391.34,395.558
+SPEAKER_01, That's true.,396.201,396.807
+SPEAKER_01,That's correct.,396.887,397.574
+SPEAKER_01,Yes.,397.634,397.917
+SPEAKER_01, OK.,398.36,398.782
+SPEAKER_01,"I can understand that this must be difficult for you, Julie,  and I'm pleased that you've come here today  to try to, you know, work through some of these issues.",400.047,409.957
+SPEAKER_01," Now, Julie, in terms of, I guess, your commitment to the marriage,  in terms of where you want the marriage kind of to go,  do you think that you have a strong base that you can potentially,  you know, if we were able to help your husband  with the drinking side of things,  that your marriage itself might be strong enough to overcome  and to move forward in the relationship?",410.66,436.419
+SPEAKER_01," Or, you know, tell me a little bit about what your thoughts are with that.",436.861,440.278
+SPEAKER_00," Well, I'm hopeful that we could resolve the issues that we're having,  and although at the moment I feel like I need to break away from him,  if he was able to get the support that he needed  and we were able to get the support together,  I think that I would be willing to give the marriage an opportunity  to continue and to resolve our issues.",440.82,462.037
+SPEAKER_01, OK.,462.561,463.023
+SPEAKER_01,"Julie, in terms of your own support,  you mentioned your mum's looking after the children today.",463.687,468.678
+SPEAKER_01, Do you... Would you consider yourself to have friends and family that you...,469.04,472.899
+SPEAKER_01," You know, have you spoken to anyone else about this issue?",473.16,475.516
+SPEAKER_00," Well, I have.",476.201,476.724
+SPEAKER_00,"I spoke to my girlfriend who recommended your service,  and she's a very good support to me and to the children.",476.784,482.457
+SPEAKER_00, And I have a very supportive family network as well.,483.121,486.48
+SPEAKER_00," I have sisters who live in Sydney and also my mum,  so they're all around me and they're very, very caring towards me.",486.54,492.917
+SPEAKER_00, Have any of those...,493.641,494.391
+SPEAKER_01, Any of the family or friends noticed a change in your husband's behaviour?,495.181,498.539
+SPEAKER_00," Yes, they have.",498.881,499.886
+SPEAKER_00,"Actually, recently we had a social function  and my brother did comment to me on how much alcohol my husband consumed  at this social event.",499.987,508.756
+SPEAKER_00, OK.,509.28,509.642
+SPEAKER_01,"So this is impacting on you as well as the, I guess, the extended family as well.",509.983,514.279
+SPEAKER_01," Well, it's really good to hear that you do have a support network  outside of this room, I guess, which is really, really good.",514.72,520.78
+SPEAKER_01," And it's great that you've got that,  and I'd encourage you to use your mum and your family and friends,  you know, as a gentle ear to listen,  to, you know, to help you support yourself and the children through this phase  or this stage in your relationship with your husband.",521.726,539.455
+SPEAKER_01," So, Julie, I'm just trying to think about potentially...",540.381,544.716
+SPEAKER_01," Just to recap, so you're saying that your relationship with your husband  has changed from what it was.",545.76,552.719
+SPEAKER_01, You've been with him for about eight years and you have got three children.,552.84,555.773
+SPEAKER_01, You've mentioned that the primary changes his behaviour  and that you believe that it probably is linked to his change in drinking habits.,557.36,567.72
+SPEAKER_01, That's right.,567.82,569.096
+SPEAKER_01," And from what I understand, you've expressed that you would be happy  to potentially work with him to resolve or seek help for him  in relation to his drinking habits.",569.52,580.835
+SPEAKER_01, How old do you... Would that be right in what I've said there?,581.5,585.0
+SPEAKER_00," Yes, that's right.",585.0,586.152
+SPEAKER_00,That's correct.,586.192,586.899
+SPEAKER_00, I would be happy to work on things if he was willing to do that as well.,587.0,591.056
+SPEAKER_01," Not knowing your husband, I guess I would probably need to ask you if...",592.32,595.736
+SPEAKER_01, Do you think that your husband would be receptive to maybe some marriage counselling  or going to see somebody about his drinking?,596.56,606.14
+SPEAKER_01, Is he the type of person that might be receptive to that or...?,606.16,608.895
+SPEAKER_00, I think he would.,609.862,610.696
+SPEAKER_00," I think if I was able to approach him when he was calm and relaxed,  I think that, yes, he probably would be receptive to that.",611.0,618.957
+SPEAKER_00, OK.,619.481,619.863
+SPEAKER_01,That's positive.,620.93,621.634
+SPEAKER_01,"That's really good,  because some people that I meet, you know, the answer to that would be quite different.",621.735,626.86
+SPEAKER_01," So I think that's really positive for you, Julie.",626.92,629.271
+SPEAKER_01, I think what we probably need to look at now is maybe continuing this relationship between you and I.,631.18,638.1
+SPEAKER_01, So I'd love to see you again and meet up with you again.,638.24,640.896
+SPEAKER_01," But also, too, I think we probably need to explore that avenue  of either getting you some marriage counselling or something along those lines,  as well as seeing whether or not your husband might be interested in looking at some services  to help him with his drinking issues that he has.",641.601,660.395
+SPEAKER_01," So if it's OK by you, what we might do from here is organise for us to meet again.",661.881,666.576
+SPEAKER_01, What time is best for you?,668.161,669.593
+SPEAKER_00," Around this time is a good time for me,  and any Thursday or Friday during the day is good.",671.084,676.774
+SPEAKER_00, OK.,678.361,678.622
+SPEAKER_01,"So what we'll do is we'll organise maybe for this time next week,  and we'll meet again.",678.742,684.298
+SPEAKER_01," But in the meantime, I think we probably need to put you in contact with a relationships counsellor,  and we'll try to get that side of things going.",684.48,695.76
+SPEAKER_01," And as a result of that, we'll be able to work out how receptive your husband is  of potentially seeking some help for him as well.",696.041,704.296
+SPEAKER_01, I would like to just say that you mentioned that you probably would like to escape a little bit from it at the moment.,705.38,711.157
+SPEAKER_01, So perhaps I might be able to give you some advice or some information on some things  that you might be able to do to take yourself away from that situation.,712.3,721.099
+SPEAKER_01," If you feel as if it's a little bit too much,  maybe you might like to tap into your mum or your family and friends as well  if you don't feel comfortable using some of the other services in the area.",721.28,731.556
+SPEAKER_01, How do you feel about that?,732.461,733.377
+SPEAKER_01, That would be good.,733.701,734.487
+SPEAKER_01,I'd appreciate that.,734.507,735.473
+SPEAKER_01,Thank you.,735.514,735.937
+SPEAKER_01, OK.,736.4,736.682
+SPEAKER_01,"Well, thank you, Julie, for taking the time.",737.045,738.8
+SPEAKER_01," I'm really happy that you were able to come in today,  and I look forward to going on this journey with you.",738.861,743.535
+SPEAKER_01, It's not a solution.,744.46,745.386
+SPEAKER_01,We can't fix everything here today.,745.406,747.519
+SPEAKER_01, It will be a process.,747.681,748.612
+SPEAKER_01, But hopefully together we can see a really positive outcome for you  and your family.,749.943,755.576
+SPEAKER_00, Thank you very much for talking to me today.,756.282,758.193
+SPEAKER_00,That's been great.,758.213,758.917
+SPEAKER_00,Thank you.,758.957,759.299
+SPEAKER_00, And I look forward to seeing you next week.,759.501,761.198
+SPEAKER_00, Thank you very much.,761.481,762.418

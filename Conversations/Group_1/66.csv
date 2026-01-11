@@ -1,0 +1,92 @@
+speaker_id,utterance,start,end
+SPEAKER_01," Hi, this is Dr. Grande.",14.198,15.219
+SPEAKER_01, I hope you find this video useful.,15.66,17.234
+SPEAKER_01," If that's the case, please like it and subscribe to my channel.",18.0,20.936
+SPEAKER_01," As always, thanks for watching.",21.78,23.13
+," Hi, Hazel.",24.52,24.682
+SPEAKER_01, How are you doing today?,26.907,27.795
+SPEAKER_00, I'm okay.,28.442,28.768
+SPEAKER_00, Are you okay?,29.74,30.026
+SPEAKER_01, Yeah.,30.924,31.067
+SPEAKER_01," I know when we met last time for your intake, you were concerned about some presentations  that you had to give at school.",31.72,41.811
+SPEAKER_01, Yes.,43.129,43.211
+SPEAKER_01, Do you want to talk about that today?,43.68,45.599
+SPEAKER_00," Yeah, so in school, I am in school for teaching, and we have to give presentations a lot, as  you can imagine, on different things.",46.061,58.613
+SPEAKER_00," And so, it's something that's recurring.",60.763,63.394
+SPEAKER_00," And what happened was, I gave a really bad one one time.",64.64,70.139
+SPEAKER_01, A bad presentation?,71.027,72.139
+SPEAKER_00, Yeah.,72.281,72.505
+SPEAKER_00," I wasn't feeling very well, and I gave, I think I was just really tired from studying  all night, and I gave a really bad presentation.",73.24,81.195
+SPEAKER_00," And then, like now, ever since, like when I've tried to give subsequent presentations,  I am just so nervous, and I'm up there like sweating, and like starting to forget what  I'm going to say.",82.0,95.589
+SPEAKER_00," And I'm just like a fear of getting up there and having to get a presentation, because  I feel like I'm going to vomit.",97.12,103.909
+SPEAKER_01, All right.,106.354,106.719
+SPEAKER_01," So was there a time before, like recently, when you had to give presentations?",106.8,113.359
+SPEAKER_00," Yeah, I mean like before and earlier in my, like I'm towards the end of my degree, so  throughout my program I have, I have a lot to do.",113.88,124.32
+SPEAKER_01, And how did you do with those?,124.401,125.128
+SPEAKER_00, Pretty well.,126.24,126.567
+SPEAKER_00," I mean, I consider myself a pretty good student, so normally I do pretty well.",127.3,131.979
+SPEAKER_00, It seemed to come out of nowhere.,132.2,133.589
+SPEAKER_01," So this presentation that you gave with the, where you received a poor score, maybe just  an isolated incident?",135.48,143.76
+SPEAKER_00," Yeah, like I was saying, I wasn't, I wasn't feeling very well, I don't think, and it really  hasn't happened.",144.522,151.725
+SPEAKER_01, But that experience has still led to a lot of anxiety with subsequent presentations.,153.88,161.94
+SPEAKER_01, Oh yeah.,162.103,162.511
+SPEAKER_00," Like I'm worried about my grades suffering as a result and, you know, how well I'm going  to do.",163.02,170.385
+SPEAKER_01, All right.,171.406,171.773
+SPEAKER_01," So, would it be okay if we kind of step through the whole process of you giving a presentation?",172.982,179.538
+SPEAKER_01," Yeah, sure.",180.322,181.433
+SPEAKER_01, Right.,182.854,183.058
+SPEAKER_01," Is, before I start with that, is this something that leads to anxiety, like right now or other  times or really just in that moment when you're presenting?",183.701,193.295
+SPEAKER_00," Mostly it's most intense in that moment and like maybe like leading up to it, like in  preparation that I know that this is going to happen.",194.22,203.757
+SPEAKER_00," Like I always know when I'm going to present, like it'll be like, she'll, the teacher will  say, oh, well, you know, you're this Thursday, someone else's next Thursday.",204.26,211.736
+SPEAKER_00," So the closer it gets to that event, the more anxious I am, like in anticipation.",212.44,219.08
+SPEAKER_01, Okay.,219.995,220.24
+SPEAKER_01, So you start feeling anxiety a few days before presentation or?,220.84,225.119
+SPEAKER_00," Yeah, I would say a few days mostly.",225.481,228.38
+SPEAKER_01, When does it start to get really distressing for you?,229.705,233.259
+SPEAKER_00, Like two days before or one day before.,233.64,235.44
+SPEAKER_00," Then I'm like, oh my gosh, like, am I ready?",235.782,237.918
+SPEAKER_00, Like what if I mess up?,238.16,239.195
+SPEAKER_00," You know, what if I get a bad grade?",239.56,240.878
+SPEAKER_00, All these like what ifs.,241.02,241.81
+SPEAKER_01, Okay.,242.886,243.131
+SPEAKER_01," So, would it be okay if we step into this process and kind of break down the steps of  the presentation?",243.66,250.635
+SPEAKER_01, Yeah.,251.125,251.247
+SPEAKER_00, All right.,252.125,252.431
+SPEAKER_01," So let's say that you're taking, what's one of the classes you're taking now?",252.88,258.314
+SPEAKER_00, Early childhood.,260.44,261.073
+SPEAKER_01, Early childhood.,261.501,262.293
+SPEAKER_01, So let's say you have a presentation in that class a few days from now.,262.72,269.218
+SPEAKER_01, It's just a normal presentation.,270.423,273.22
+SPEAKER_01, Yeah.,273.362,273.566
+SPEAKER_01, All right.,274.381,275.66
+SPEAKER_01, So let's now move to two days out.,275.841,279.619
+SPEAKER_01, Okay.,280.105,280.574
+SPEAKER_01, Where you would start to feel a little anxiety about it.,280.86,283.818
+SPEAKER_01, Yeah.,284.812,284.934
+SPEAKER_01, What's going through your mind at that two day out point?,285.22,289.115
+SPEAKER_00," I would say like, am I prepared enough?",290.381,293.558
+SPEAKER_00," Like did I do enough, you know, to study or to write down?",293.86,299.76
+SPEAKER_00, Did I do enough?,300.326,301.014
+SPEAKER_01, All right.,302.029,302.294
+SPEAKER_01," So your thought is, did I do enough preparation?",302.64,306.14
+SPEAKER_01, Yeah.,306.18,306.405
+SPEAKER_00, Which leads to maybe I didn't is what I'm really thinking.,307.281,311.539
+SPEAKER_00, Like I'm not prepared enough as I should be.,311.82,314.236
+SPEAKER_01, Okay.,314.92,315.798
+SPEAKER_01, I'm not prepared.,315.92,316.675
+SPEAKER_01, I'm not prepared enough.,317.163,317.934
+SPEAKER_00, Yes.,318.4,318.706
+SPEAKER_01, All right.,319.746,320.112
+SPEAKER_01, So that's the thought you're having about 48 hours before the presentation.,320.6,326.379
+SPEAKER_01, I'm not prepared enough.,326.741,327.571
+SPEAKER_01, Yeah.,328.361,328.973
+SPEAKER_01," So kind of thinking about that thought and what happens afterward, do you have a reaction  like any type of emotional affective, we call it affective reaction to that?",330.782,341.157
+SPEAKER_00," So at that point I'm usually like more like anxious, maybe like irritable a little bit,  um, mostly.",342.02,351.909
+SPEAKER_01," And that goes substantially unchanged, that feeling for how long?",353.96,358.097
+SPEAKER_00," Um, like the day before it like kind of gets more intense when I'm like nitpicking like,  well, I forgot this or I didn't forget this.",358.88,368.478
+SPEAKER_00," And you know, remembering what happened last time when I didn't do so well and worrying  about my grade, like more thoughts pop in my head of things that I forgot or what if  sort of things.",368.82,381.774
+, All right.,382.141,383.08
+SPEAKER_01," So the same type of thought, just more intense.",383.402,387.079
+SPEAKER_01, More intense.,387.36,387.911
+SPEAKER_01, And the feeling is also more intense.,389.205,391.739
+SPEAKER_00, Yes.,392.003,392.169

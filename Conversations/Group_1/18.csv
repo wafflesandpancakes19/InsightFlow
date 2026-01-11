@@ -1,0 +1,105 @@
+speaker_id,utterance,start,end
+SPEAKER_00," Hi Emma, how are you doing today?",14.898,15.82
+SPEAKER_01," I'm doing good, thanks.",16.181,16.977
+SPEAKER_01, How are you?,17.12,17.447
+SPEAKER_00," I'm doing well, thank you for asking.",18.523,19.913
+SPEAKER_00, I understand you've been having some symptoms that have been bothering you lately.,20.92,25.875
+SPEAKER_00, Can you tell me about that?,27.983,28.79
+SPEAKER_01," Well, I just moved into an apartment and it's the first time that I'm on my own.",30.421,38.255
+SPEAKER_01, I kind of had heard that someone got robbed and ever since then I'm kind of nervous about  my apartment getting robbed.,40.94,49.832
+SPEAKER_00, Someone who's robbed near where you live?,51.123,53.715
+SPEAKER_01," Yeah, someone in the same complex.",54.9,57.732
+SPEAKER_01, So sometimes when I'm sleeping I'll wake up in the middle of the night and I'll think  did I lock the door?,59.98,67.076
+SPEAKER_01, Is the door unlocked?,67.26,68.26
+SPEAKER_01, And I can't fall back asleep.,68.541,72.075
+SPEAKER_00, How long does it take you to fall back asleep?,73.26,74.949
+SPEAKER_01, Sometimes it takes maybe an hour or two.,77.04,79.13
+SPEAKER_00, And what are you thinking about during that time?,81.14,82.953
+SPEAKER_01, I'm just worried that I left the door unlocked and sometimes I'll hear sounds and I think  maybe someone's in the apartment or I just get nervous.,83.96,96.22
+SPEAKER_01, I just get scared that the door's unlocked.,96.28,98.011
+SPEAKER_00, That sounds scary.,99.62,100.334
+SPEAKER_00," You said a couple hours, you stay awake.",102.047,104.68
+SPEAKER_01, Yeah.,104.882,105.249
+SPEAKER_01, It's a while.,105.964,106.413
+, Yeah.,107.004,107.372
+SPEAKER_00, So this is troubling for you.,107.8,109.109
+SPEAKER_00, Have you ever gotten up and checked the door?,110.82,114.216
+SPEAKER_01," No, I stay in bed and I just try to, but I just think about it.",114.94,119.495
+SPEAKER_00," All right, so you just keep thinking about it.",121.905,124.476
+SPEAKER_00, Does it get worse as that time goes on or does it get better?,125.32,130.1
+SPEAKER_00, What happens?,130.18,130.629
+SPEAKER_01, It gets worse.,131.323,132.098
+SPEAKER_01, I mean I try to fall back asleep and I stay in bed and I just think maybe I did leave  the door unlocked and then I just keep thinking that maybe it is unlocked.,132.2,144.618
+SPEAKER_00, So it kind of keeps cycling through the same.,145.22,146.736
+SPEAKER_01, Yeah.,147.1,147.243
+SPEAKER_00, Do you ever do anything to try to get those thoughts to go away like focusing on something  else?,148.722,154.787
+SPEAKER_01," Well, I have like a ceiling fan above me, so sometimes I'll just like count how many  times it goes around and just try to distract myself from thinking about it, but I still  think about the door being unlocked.",155.741,169.993
+SPEAKER_01, Sometimes it helps.,170.64,171.39
+SPEAKER_00," All right, so you have a fear that somebody is going to enter or break into where you  live and you're staying up at night thinking about whether the door has been secured.",173.423,187.276
+SPEAKER_00, That's been troubling you.,189.245,189.991
+SPEAKER_00, Anything else?,191.22,191.522
+SPEAKER_01," Sometimes if I'm leaving for work, I'll get to my car and I'll think I left the hair straight  neuron and I'll think to myself, should I go back?",194.06,203.18
+SPEAKER_01, I don't know what to do and I'll just like kind of debate whether or not I should just  go double check.,203.421,209.148
+SPEAKER_01," I'm just worried that if I left the straight neuron, something that would happen.",210.26,215.739
+SPEAKER_00, What do you think might happen?,216.746,217.794
+SPEAKER_01," If I left the straight neuron, something, if I have like clothes or something and it's  on a cloth, like that could burn or if it's, I just don't want anything.",219.383,230.739
+SPEAKER_01, I don't want the place to burn down.,231.121,232.258
+SPEAKER_01, That's what I'm nervous about.,232.521,233.405
+SPEAKER_00," When you leave, you're thinking about, it was a hair straightener?",236.3,240.199
+SPEAKER_01, Yeah.,240.481,240.665
+SPEAKER_00, You're thinking about whether you unplugged it or not or turned it off or not?,241.42,245.234
+SPEAKER_00, Yeah.,247.366,247.631
+SPEAKER_00, How long those thoughts go on for?,248.62,250.313
+SPEAKER_01," Normally I think about it before I get into my car and I'll be like, well maybe I should  just go just to make sure I unplugged it and I turned it off and then sometimes during  the day I'll be at work and I can't focus just because I'm thinking about, I'll come  back and I'll see my apartment burned down because I left the straightener plugged in.",252.264,270.212
+SPEAKER_00, So I remember with the door you're saying that you struggle with those thoughts but  you don't get up and check the door.,272.74,279.478
+SPEAKER_00, Have you ever come back and checked to see if something was left to want?,279.921,283.717
+SPEAKER_01," No, I haven't but I just, I think about it.",284.5,289.699
+SPEAKER_01, Like what if I did leave it on or plugged in?,290.462,293.354
+SPEAKER_00," So you're worried, anxious?",294.78,297.953
+SPEAKER_01, Yeah.,299.54,299.846
+SPEAKER_01, Afraid?,300.867,301.193
+SPEAKER_01," Yeah, definitely, all afraid.",301.941,305.513
+SPEAKER_00," And how often does this happen, like the cycle of thoughts?",307.54,310.891
+SPEAKER_01, Probably throughout the day.,313.9,314.868
+SPEAKER_00, So every day?,316.48,316.929
+SPEAKER_01," Every day, yeah.",317.5,318.105
+SPEAKER_00, And how long has this been going on?,320.08,321.586
+SPEAKER_01," Ever since I moved I guess into the apartment, so about I guess a year.",324.82,329.436
+SPEAKER_00, So this has been going on for a year?,330.72,331.516
+SPEAKER_01, Yeah.,331.761,331.945
+SPEAKER_00, And in that year timeframe has it become any worse?,334.224,339.958
+, Yeah.,340.782,341.169
+SPEAKER_00, How did it start out?,345.991,346.894
+SPEAKER_01," It started out with just, you know, I would go to bed and I would wake up in the middle  of the night and think to myself, did I lock the door?",349.22,358.659
+SPEAKER_01, I'm pretty sure I locked the door.,358.861,359.728
+SPEAKER_01, And then I would just be fine.,361.06,362.239
+SPEAKER_01," I could go back to sleep and be like, no, I remembered I locked it.",362.38,364.752
+SPEAKER_01," But then as it progressed I really, I would wake up multiple times throughout the night  and I would, it would just keep me up.",366.5,374.873
+SPEAKER_00, As you thought about it.,376.9,377.676
+SPEAKER_01, Mm-hmm.,377.9,378.063
+, Yeah.,379.716,379.839
+SPEAKER_00," All right, I want to ask you a few other questions to try to help me figure out what's going  on.",380.803,385.221
+SPEAKER_00," Have you ever been diagnosed with any condition, like a mental health condition?",386.94,391.32
+SPEAKER_00, No.,391.401,391.544
+SPEAKER_00, How about a medical condition?,393.287,394.356
+SPEAKER_01, No.,395.613,395.838
+SPEAKER_01, Never?,396.389,396.92
+SPEAKER_00, No.,397.573,397.654
+SPEAKER_00, Have you ever used alcohol or any other substances?,400.506,405.338
+, No.,405.94,405.981
+SPEAKER_01, No.,407.042,407.205
+SPEAKER_00, Okay.,408.369,408.552
+SPEAKER_00, Okay.,409.813,410.178
+SPEAKER_00, And has this been the first time in your life you've experienced these symptoms?,410.3,414.198
+SPEAKER_00, Like starting a year ago up until now?,415.445,416.792
+SPEAKER_00, Yeah.,418.689,418.791
+SPEAKER_00, Never?,419.261,419.383
+SPEAKER_01, Anything like this before?,420.22,421.22
+SPEAKER_01, No.,421.22,421.261
+, All right.,422.24,423.057
+SPEAKER_00," Emma, I'm going to get you in to see one of our counselors here.",424.225,427.139
+SPEAKER_00, Okay.,427.787,428.318
+SPEAKER_00, I appreciate you spending this time with me.,428.42,429.779
+SPEAKER_00, It's been helpful for me to try to understand what's going on.,429.86,433.398
+SPEAKER_01, Thank you.,433.986,434.333
+SPEAKER_00, Thanks so much.,434.826,435.14

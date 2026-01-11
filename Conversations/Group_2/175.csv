@@ -1,0 +1,176 @@
+speaker_id,utterance,start,end
+SPEAKER_01," Hi Lisa, how are you doing today?",15.399,16.2
+SPEAKER_00, I'm doing okay.,16.946,17.654
+SPEAKER_01, Did you make it here okay to the office?,18.886,20.156
+SPEAKER_00, I did.,20.682,20.927
+SPEAKER_00, Traffic wasn't too bad.,21.62,22.559
+SPEAKER_01," Good, good.",22.845,23.539
+SPEAKER_01, So I understand that you've come to see me because you have a situation.,24.142,28.175
+SPEAKER_00," Yeah, I'm just been a lot of anxiety right now.",29.76,32.599
+SPEAKER_00, My oldest child is moving out and I know as a mom that that's the goal is to let them  be independent and start on their own but still a little concerned that it's going to  work out and that he's in a good place and living where he should and going to eat dinner  and do those things that you worry about them doing.,32.7,51.975
+SPEAKER_01," Okay, I'll try to help you with that.",53.506,54.618
+SPEAKER_01, I'm sure your year gets started.,54.841,56.594
+SPEAKER_00, Absolutely.,57.422,57.891
+SPEAKER_00, The sooner the better.,58.603,59.229
+SPEAKER_01, Good.,60.871,61.116
+SPEAKER_01, I want to make sure I go over a few disclosures about the counseling relationship before we  get into assessment which is the first stage.,61.481,69.878
+SPEAKER_00, Okay.,70.381,70.524
+SPEAKER_01, Right.,71.381,71.565
+SPEAKER_01, We'll ask you a lot of questions.,72.34,73.32
+SPEAKER_00, Alright.,73.524,73.769
+SPEAKER_01, Okay.,74.34,74.463
+SPEAKER_01, About your past and what's going on now and then after assessment we'll move into counseling.,75.32,79.457
+SPEAKER_01, So we'll come in roughly once a week.,80.24,82.236
+SPEAKER_01, Okay.,82.964,83.25
+SPEAKER_01, And then we'll get through kind of a piece on confidentiality.,83.82,88.159
+SPEAKER_00," Okay, so like attorneys what you can do and not do and...",89.103,92.814
+SPEAKER_01, Kind of.,94.72,95.189
+SPEAKER_01, I'm glad you brought that up about attorneys.,95.74,97.46
+SPEAKER_01, Attorneys and clients have confidentiality and counselors and clients have confidentiality  but the two types are different.,97.46,104.213
+SPEAKER_01, So I'll explain to you how it will work between you and I but know that is a little bit different  than it works between attorney and their client.,105.08,112.12
+SPEAKER_01, Okay.,112.12,112.344
+SPEAKER_00, Can you explain the differences to me?,113.48,114.296
+SPEAKER_01, Absolutely.,114.684,115.419
+, Okay.,115.602,116.051
+SPEAKER_01," So you want to think about a counseling relationship all this time you spend here, the notes that  I'll take during the assessment and the progress notes later on because I'll have a chart with  your name on it and it will be stored in a secure place.",116.661,131.192
+SPEAKER_01, All that is confidential and next to that word confidential is an asterisk.,132.56,136.997
+SPEAKER_01, Right?,138.676,138.839
+SPEAKER_01, Okay.,139.166,139.268
+SPEAKER_00, There's exceptions.,139.88,140.778
+SPEAKER_01, Okay.,140.9,141.064
+SPEAKER_01, And what I'm saying to you are those exceptions to confidentiality because confidentiality  isn't absolute.,141.88,147.413
+SPEAKER_00, So there's times you might tell someone else something that I said?,148.16,151.317
+SPEAKER_01, Yes.,151.8,152.004
+SPEAKER_00, Okay.,153.024,153.106
+SPEAKER_01," Yeah, but there are very specific situations that occur that permit that or mandate that.",153.8,158.379
+SPEAKER_01, Okay.,158.825,159.029
+SPEAKER_01, And I want to review those with you before we move on.,159.58,161.158
+SPEAKER_00, Okay.,161.605,161.911
+SPEAKER_00, Does that make sense?,162.36,163.34
+SPEAKER_00, Yeah.,163.36,163.442
+SPEAKER_00, I'd like to know that before I tell you anything.,164.4,165.957
+SPEAKER_01, I agree.,166.608,166.833
+SPEAKER_01, That's a good way to look at it.,167.2,169.52
+SPEAKER_01, So the first exception to confidentiality is when you give me permission to release  information that you've disclosed and interactions we've had in counseling.,169.56,179.519
+SPEAKER_00, Okay.,179.781,180.026
+SPEAKER_01, This is actually fairly common.,180.882,182.073
+SPEAKER_01," For example, do you have a primary care physician?",182.8,184.579
+SPEAKER_00," I do, yes.",184.762,185.211
+SPEAKER_01, Yeah.,185.843,186.068
+SPEAKER_01," So depending on what we talk about, you may want him or her to know about our discussions.",186.68,192.48
+SPEAKER_00, Okay.,192.929,193.133
+SPEAKER_01, And then you would have to sign a release that gives that physician the right to talk  to me directly.,193.48,200.713
+SPEAKER_00, That makes sense.,201.444,201.928
+SPEAKER_01, All right.,203.223,203.468
+SPEAKER_01," Furthermore, your issues with or part of your concern is with your son.",204.12,209.357
+SPEAKER_01," So say, and I don't necessarily foresee this, but say later on as we work together, you  want him to come in for a session just to talk about something.",210.44,220.618
+SPEAKER_01, Right?,221.733,221.835
+SPEAKER_01, And then you would have to sign a release to that confidentiality so he could be here  and talk with me.,222.08,227.511
+SPEAKER_00, Okay.,227.96,228.082
+SPEAKER_01, Does that make sense?,229.042,229.776
+SPEAKER_00, That makes a lot of sense.,229.98,231.495
+SPEAKER_01, Okay.,232.797,232.96
+SPEAKER_01, The other exceptions are you have an insurance company.,232.98,235.976
+SPEAKER_01," So when you fill out your screen packet, insurance companies have access to progress notes, the  assessment, anything on the chart.",236.68,247.411
+SPEAKER_01, And they're generally responsible for this information.,249.04,251.04
+SPEAKER_01, I don't know of any instances where they're irresponsible with it.,251.12,253.599
+SPEAKER_01," But I just think it's important that you know that anything I write in the chart, anything  in the chart itself, technically the insurance company can ask for it.",254.283,261.175
+SPEAKER_01, And periodically could review.,262.44,263.554
+SPEAKER_01, Okay.,264.917,265.08
+SPEAKER_01," Again, I've never seen in my career any difficulty with that.",265.08,268.22
+SPEAKER_01," But I just want to let you know that information would be transmitted offsite, so to speak.",268.842,272.436
+SPEAKER_01," And when this agency bills, it would be transmitted, your information would be transmitted offsite  to the insurance company.",273.56,280.618
+SPEAKER_00," So it goes automatically, whatever progress notes you have automatically go to the insurance  company?",281.42,284.589
+SPEAKER_01," The progress notes don't for standard billing, but information about the type of session  we had, the length of the session, and some other personal information about you to identify,  you would go to them.",285.16,295.433
+SPEAKER_00," Oh, okay.",295.82,296.065
+SPEAKER_01, So they know a service was provided.,296.8,297.718
+SPEAKER_00, Okay.,297.922,298.596
+SPEAKER_01," But like I said, they're generally very responsible for that information.",298.88,302.075
+SPEAKER_01, Large companies have done this for a while.,303.12,304.736
+SPEAKER_00, Right.,305.344,305.528
+SPEAKER_00," They get all your medical stuff too, so they have it up.",306.12,307.419
+SPEAKER_01, They have access to a lot of different types of data.,307.5,309.277
+SPEAKER_01, Okay.,310.13,310.334
+SPEAKER_01," Another exception to confidentiality, and again, I don't foresee necessarily any of  this happening, but I want to tell you about the limits of it, is in the event that I feel  that you're going to harm, or there's a high potential that you're going to harm yourself  or someone else.",311.701,327.554
+SPEAKER_00, Okay.,328.207,328.575
+SPEAKER_01, All right.,328.901,329.82
+SPEAKER_01," In that instance, I'm obligated to act.",329.84,332.613
+SPEAKER_01, Now we're going to probably talk about a lot of different elements of your life through  the next however many weeks we're together.,334.12,340.374
+, Okay.,341.609,341.731
+SPEAKER_01," When, and if, and again, I don't predict this, you have some sort of suicidal ideation or  you want to harm somebody else.",342.421,351.214
+SPEAKER_01," In the unlikely event that happens, I would only release the information I have to release  to protect you or the person that I'm worried about that you might harm.",351.68,360.796
+SPEAKER_00, Okay.,361.56,361.825
+SPEAKER_01, All right.,363.07,363.438
+SPEAKER_01," So if you reveal a lot of like deep, dark secrets, and then you tell me that you want  to go harm a relative of yours, right?",363.56,370.957
+SPEAKER_01," I have a duty to warn that relative of what you plan on doing, where you are at the moment,  what threats you've made, but I'm certainly not going to tell them about your deepest  darkest secrets you revealed.",371.48,381.88
+SPEAKER_00, Okay.,382.309,382.696
+SPEAKER_01, Okay.,382.88,383.023
+SPEAKER_01, Unless they're directly relevant to protecting them.,383.88,385.176
+SPEAKER_00, Okay.,385.602,385.847
+SPEAKER_01, Okay.,386.52,386.806
+SPEAKER_01, That's very unlikely they would be.,387.52,388.479
+SPEAKER_00," I'm not planning on hurting anybody, but we should be good.",388.903,391.078
+SPEAKER_01, I know.,391.442,391.625
+SPEAKER_01, Yeah.,392.36,392.523
+SPEAKER_01," I know that this confidentiality, the information I release, is limited to just what I need  to release.",393.98,400.869
+SPEAKER_01, Okay.,402.358,402.44
+SPEAKER_01," Similarly, if you have any type of suicidal ideation and I had to contact somebody to  come pick you up, like law enforcement, I would only tell them what I needed to tell  them for them to get you to the hospital and get you in a safe environment.",402.44,415.812
+SPEAKER_01," This I want to take an opportunity to talk about the suicidal ideation to let you know  that just because you have suicidal ideation, like thoughts, a lot of people think about  suicide from time to time, or even homicidal ideation or thoughts you're going to harm  someone, not necessarily you're going to kill, but it's harm, does not by any means automatically  mean I'm going to call the police.",417.92,437.711
+SPEAKER_01, Okay.,438.807,438.97
+SPEAKER_01," Think of it as something that opens a discussion, certainly, about your safety and someone else's  safety, but that's not, we don't go automatically from there, that is, if you have any thoughts,  suicide to the hospital.",439.5,451.828
+SPEAKER_01," There's a discussion and many, most, the vast majority actually of people that have suicidal  ideation do not have any intent or plan to commit suicide.",453.28,462.2
+SPEAKER_01, Okay.,462.343,462.465
+SPEAKER_01, Does that make sense?,463.567,464.159
+SPEAKER_00," So you say, so if someone's thinking about it, you are not just going to call the police  and send you to the hospital, you're going to try to get to the bottom of it first.",464.421,471.611
+SPEAKER_00, Absolutely.,473.781,474.23
+SPEAKER_01, Okay.,474.842,475.047
+SPEAKER_01, Yeah.,475.74,475.883
+SPEAKER_01," That, you know, I have a responsibility to make sure you're safe and I feel like I can  do that if we talk through an issue and you don't have any, you don't have any reason  to believe you're going to harm yourself, but just have a suicidal thought.",476.74,486.478
+SPEAKER_00, Okay.,486.943,487.188
+SPEAKER_00, Okay.,487.8,487.902
+SPEAKER_01," That's a lot different than you came into me and told me about a detailed plan and you  really seem like you're going to do it, then I'd be a lot more worried.",488.82,494.917
+SPEAKER_00, Okay.,495.624,495.93
+SPEAKER_01, That makes sense.,496.971,497.44
+SPEAKER_01, Okay.,497.501,497.685
+SPEAKER_01, So that exception of confidentiality is really used in the most extreme cases of suicidal  ideation.,498.46,503.746
+SPEAKER_01," Another exception in this state that I want to let you know about is if I have any reason  to believe that a child or an elderly person is being abused, I have to report it.",506.48,518.04
+SPEAKER_01, It's called a mandated reporter.,518.261,519.577
+SPEAKER_00, Okay.,520.085,520.289
+SPEAKER_01, Now I'm sure that you're not abusing and it's older than anyone.,520.84,524.14
+SPEAKER_01," No, I'm not abusing anyone.",524.322,525.037
+SPEAKER_01, Or elderly people.,525.629,526.139
+SPEAKER_01, But I want to explain how this exception works because it's a little more far reaching than  you may think.,526.2,530.845
+SPEAKER_01, So say that you come in and you discuss with me a neighbor that seemingly has nothing to  do with your treatment.,532.14,538.916
+SPEAKER_01, I just casually mention that something's going on and that discussion leads me to believe  that your neighbor's abusing their child.,539.441,548.135
+SPEAKER_01, I still have to report that.,548.901,549.875
+SPEAKER_01, Okay.,550.772,550.915
+SPEAKER_01," Even though it has really nothing to do with you directly, it's something you just told  me in passing, I'd have to act on it.",551.18,557.815
+SPEAKER_01, Okay.,558.684,559.276
+SPEAKER_01," And again, I would only release the information necessary to protect that child's safety.",559.5,564.399
+, Okay.,565.293,565.374
+SPEAKER_01, Does that make sense?,566.211,566.66
+SPEAKER_00," It does, yes.",566.66,567.578
+SPEAKER_01," So no matter how I find out about it or who it is, I have to act on that.",567.901,573.097
+SPEAKER_01, Okay.,574.02,574.204
+SPEAKER_01, Okay.,575.061,575.347
+SPEAKER_01," And then the last exception I want to review is, again, as with many of these, very unlikely.",576.02,584.498
+SPEAKER_01," But if for some reason you're involved in a type of civil or criminal litigation and  a judge orders me to testify, I have to testify.",585.26,596.896
+SPEAKER_01," I can tell you this happens very rarely, but it can happen.",598.2,602.135
+SPEAKER_01, And I can and will try not to disclose.,603.5,608.239
+SPEAKER_01, I'll ask the judge to not disclose if you don't want me to.,608.44,613.038
+SPEAKER_01, But ultimately a judge can't order me and I have to.,613.72,616.797
+SPEAKER_00, Okay.,617.462,617.727
+SPEAKER_01, So in the end it's up to the judge.,618.582,619.693
+SPEAKER_00, Okay.,620.707,620.87
+SPEAKER_01, I understand that.,621.462,622.36
+SPEAKER_01," So again, most of these pretty unlikely.",622.542,624.178
+SPEAKER_00, Yeah.,624.462,624.646
+SPEAKER_01," But I'd rather you have all the information going forward so you don't have any concerns  about where the information you're revealing or talking about, where the information is  going.",625.36,633.227
+SPEAKER_01, Okay.,634.635,634.798
+SPEAKER_01, Do you have any questions about that?,634.88,635.717
+SPEAKER_00, I don't think so.,636.472,636.88
+SPEAKER_00, It seems pretty clear.,636.941,637.88
+SPEAKER_00, Okay.,637.982,638.268
+SPEAKER_01," Well, I appreciate you sitting through that talk on confidentiality.",638.92,642.857
+SPEAKER_01, So we're going to get started now with the assessment.,643.54,645.278
+SPEAKER_00, Okay.,645.729,645.896

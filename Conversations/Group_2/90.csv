@@ -1,0 +1,126 @@
+speaker_id,utterance,start,end
+SPEAKER_00," Hi Jackie, how are you doing today?",14.177,16.22
+SPEAKER_00," Eh, how are you?",16.986,18.157
+SPEAKER_01," I'm okay, thanks for asking.",18.863,19.891
+SPEAKER_01, I see that you have signed a release so I could talk to your mother and that she brought  you in today.,21.201,27.833
+SPEAKER_01, Yeah.,28.241,29.078
+SPEAKER_01, What's going on there?,29.261,29.996
+SPEAKER_00," Um, you know, they think I have a drinking problem.",30.502,33.778
+SPEAKER_00, My family.,34.363,34.853
+SPEAKER_01, Your family thinks you have a drinking problem?,35.281,36.715
+SPEAKER_00," Yeah, so what really started this was this past weekend, um, they came to pick me up  for my cousin's bridal shower and, uh, I was drunk when they came to get me so I couldn't  go and now everybody's pretty pissed at me so here I am.",37.28,55.478
+SPEAKER_01, So they asked you to come into the agency?,56.06,58.099
+SPEAKER_00," Yeah, you know, I don't want them to all hate me or anything so I agreed to come.",58.4,63.513
+SPEAKER_01, Do you believe that you have a drinking problem?,66.56,69.017
+SPEAKER_00, I mean I like to drink.,70.609,71.717
+SPEAKER_00," I don't, you know, I think it's okay.",72.522,75.697
+SPEAKER_01, You think it's okay?,76.461,77.278
+SPEAKER_00," Yeah, I like it.",77.482,78.318
+SPEAKER_00, I like drinking.,78.604,79.318
+SPEAKER_01," Come on, do you mind if I ask you a few questions today to your drinking?",79.822,83.396
+SPEAKER_00," Oh, that's fine.",84.501,85.207
+SPEAKER_01, So how often do you drink now?,87.121,90.515
+SPEAKER_00," Um, pretty much every day I would think.",92.503,96.919
+SPEAKER_00, I drink every day on the weekends for sure.,98.627,100.498
+SPEAKER_00," Um, but like, uh, during the week I'll go to the, whatever the best local happy hour  is, you know, I'll just go about what's going on.",101.06,109.716
+SPEAKER_00, So I'll go after work and have some drinks.,110.702,113.297
+SPEAKER_01, How about on the weekend?,115.203,115.971
+SPEAKER_00," On the weekend I kind of keep to myself, you know, um, so I'll drink a little for whatever  I have at the house.",117.482,125.294
+SPEAKER_00," But yeah, I don't really go out a lot on the weekend, mostly to stay at home and, you know,  drink whatever I have there.",125.92,133.011
+SPEAKER_01," And how much are you drinking, let's say on the weekend?",134.763,137.615
+SPEAKER_00," Um, it's hard to keep track I think.",139.443,141.835
+SPEAKER_00, I'd say a couple cases over maybe like two or three cases of beer throughout the weekend.,144.582,150.797
+SPEAKER_00," If there's something on sale, you know, at the liquor store down the street, I'll get  like a bottle of vodka or something to go along with it.",152.723,160.812
+SPEAKER_01," Alright, how about during the week?",163.242,164.329
+SPEAKER_00," Um, during the week I just stay at the bar for a few hours, maybe have like six or seven  drinks, and then go home.",166.04,175.256
+SPEAKER_00," I mean, I'll have a glass of wine when I get home.",176.383,177.913
+SPEAKER_01, Are you drinking more than you want to?,179.181,181.835
+SPEAKER_00," Um, I guess so.",184.563,187.377
+SPEAKER_00," I mean, I've kind of tried to make a plan to just stay on the weekends to drink some,  and that hasn't really kept up because I like to go to the happy hours and stuff.",188.782,199.977
+SPEAKER_00, So.,201.369,201.532
+SPEAKER_01, So you've tried to cut down before and...,202.566,203.92
+SPEAKER_01," I have, yeah.",203.92,204.879
+SPEAKER_01, ...are not able to.,205.022,205.593
+SPEAKER_00," Yeah, it's not really happening though.",206.443,208.598
+SPEAKER_00, I don't really see it happening.,208.96,209.869
+SPEAKER_01, Do you have cravings for alcohol?,211.182,212.43
+SPEAKER_00," Um, yeah, you could say so.",214.925,217.88
+SPEAKER_00," Well, yeah, when I'm at work I want to drink, and when I'm out doing stuff I want to drink.",217.94,226.437
+SPEAKER_01," Are you using exclusively alcohol, or are there other drugs involved?",228.94,233.097
+SPEAKER_00," Um, right now just alcohol is legal.",234.222,236.9
+SPEAKER_00," I was inpatient a couple times for cocaine, but I've stopped that.",237.161,242.86
+SPEAKER_00," It's not really something I want to do anymore, so.",242.94,245.658
+SPEAKER_01, When was the last time you were inpatient?,246.102,247.556
+SPEAKER_00," Um, about four months ago, five months ago.",248.622,253.599
+SPEAKER_01, Four or five months ago?,254.002,254.92
+SPEAKER_01, Mm-hmm.,254.94,255.083
+SPEAKER_01, And at that time you used cocaine?,257.724,260.86
+SPEAKER_01," Yeah, I was using coke and alcohol.",261.766,263.376
+SPEAKER_01, And alcohol?,264.287,264.696
+SPEAKER_01, Yeah.,264.961,265.328
+SPEAKER_01, And why did you stop using cocaine?,266.647,267.92
+SPEAKER_00," Um, well, I graduated from college.",269.725,271.92
+SPEAKER_00," I was kind of a partier in college, and then I had to get a job, and it's kind of, I had a fear of losing my job because of the cocaine, and I had to get a drug test and stuff, so that's kind of in the back of my mind with that.",272.361,283.92
+SPEAKER_00," So, yeah, I think the treatment helped with that.",284.883,289.719
+SPEAKER_01, Do you crave cocaine?,290.465,291.395
+SPEAKER_00," Um, no, mostly just alcohol.",292.665,294.839
+SPEAKER_00, Just alcohol?,295.104,295.879
+SPEAKER_01, Mm-hmm.,295.94,296.247
+SPEAKER_01, How about your work?,299.261,300.965
+SPEAKER_01,Are you having any trouble keeping your job or your performance at your job been okay?,301.045,306.078
+SPEAKER_00," Um, I think I'm not doing tip-top of what I could be doing, but, you know, it hasn't really been a problem.",307.241,313.739
+SPEAKER_00," I haven't been threatened to be fired or anything like that, but, you know, I'll come and leave every once in a while, but I sneak in, so nobody knows.",314.321,322.74
+SPEAKER_01, All right.,324.021,324.242
+SPEAKER_01,Any social problems because of the alcohol use?,324.543,327.498
+SPEAKER_00," Um, me with my family kind of right now, yeah.",329.324,332.471
+SPEAKER_00,I'm not really getting along with them very well.,332.491,335.238
+SPEAKER_00," Um, my friends, though, when I go out with them during the week, we get along fine, but, you know, they're just not really as fun as they used to be, so sometimes...",336.401,344.92
+SPEAKER_00, Your friends?,344.92,345.777
+SPEAKER_00," Sometimes they want to do stuff and go to the movies or whatever, and they get a little mad because I don't want to go.",347.14,353.593
+SPEAKER_00,"I'd rather go, you know, party somewhere.",353.774,356.299
+SPEAKER_01, So you're having some social problems.,357.001,358.779
+SPEAKER_00, Yeah.,358.94,359.165
+SPEAKER_01," Not so much with your friends a little bit, but more with your family.",360.363,362.88
+SPEAKER_00," More with my family, yeah.",362.96,363.971
+SPEAKER_00," I mean, I guess my friends aren't that happy with me, but I don't think it's a huge deal.",365.1,372.118
+SPEAKER_00," My best friend, I haven't talked to in a couple days because she, uh, she was mad at me for not coming to dinner with her the other night because I would rather frank, and she didn't want to do that, so...",373.901,387.379
+SPEAKER_01, So there have been some problems with the...,388.94,390.738
+SPEAKER_00," Yeah, I guess so.",391.042,391.92
+SPEAKER_00, With the friends?,391.92,392.247
+SPEAKER_01, Yeah.,392.92,393.042
+SPEAKER_01," Have you found that, uh, you're engaging in any activities that are physically dangerous because of alcohol?",395.502,400.499
+SPEAKER_00, Um... I've gotten hurt a couple times.,401.821,406.108
+SPEAKER_00,"I mean, I've fallen down the steps, but I'm not going, like, skydiving or anything, you know, so...",406.188,413.86
+SPEAKER_00," I mean, I did sprain my ankle a couple months ago because I fell down the steps, but other than that, I've been okay.",413.92,421.8
+SPEAKER_01," Do you find that, um, you have any exacerbation of symptoms that you have already, like any medical or mental health problems made worse by the alcohol?",424.262,436.92
+SPEAKER_00," No, I would say I'm pretty healthy.",436.92,439.86
+SPEAKER_00, Yeah?,440.002,440.757
+SPEAKER_01, Yeah.,440.94,441.818
+SPEAKER_01, So... did you notice a point after you started drinking when you had to increase the amount that you drank to get the same effect?,444.242,454.68
+," Oh, yeah.",454.961,455.267
+SPEAKER_01, When did that happen?,455.961,456.92
+SPEAKER_00," Um... I think I kind of go through phases with it, you know.",459.862,462.827
+SPEAKER_00,"I'll drink a certain amount for a little while, then I'll notice, you know, I'm not even drunk anymore, so... I'll have to drink some more.",463.848,470.72
+SPEAKER_01, When was the last time you noticed that?,471.201,472.485
+SPEAKER_01,When you noticed you had to drink a lot more to get the same effect?,472.505,476.559
+SPEAKER_00," I'd say, like, last weekend, you know, I was, uh, drinking a couple beers at my house and a few hours had passed and I drank probably, like, 10, 12 beers and I wasn't feeling anything, so...",477.401,492.7
+SPEAKER_00," I started drinking a little faster and then I started, you know, feeling a little better.",493.502,497.639
+SPEAKER_01, How about withdrawal?,500.105,500.968
+SPEAKER_01,Do you have any symptoms of withdrawal when you stop drinking?,501.551,503.92
+SPEAKER_01, Uh...,503.92,503.961
+SPEAKER_01," Like physical symptoms, anxiety?",506.954,507.9
+SPEAKER_00," Well... I mean, I want some more, for sure.",510.125,513.86
+SPEAKER_00, Craving?,514.124,514.655
+SPEAKER_00," Yeah, I crave some more, but I have a headache now.",515.363,517.397
+SPEAKER_00, Headache?,518.389,518.696
+SPEAKER_00," Yeah, so...",518.92,519.655
+SPEAKER_01," Alright, Jackie, are you open to seeing a counselor here at the agency?",521.02,527.92
+SPEAKER_01," Uh... I think that's what my mom really wants, so...",527.92,531.92
+SPEAKER_00," So maybe I'll try it out once or twice and see what happens, but...",531.96,536.86
+SPEAKER_00," I guess to make her happy, I will.",536.92,537.927
+SPEAKER_00," Alright, so you want to try it out?",539.92,541.9
+SPEAKER_00, Yeah.,541.92,542.063
+SPEAKER_01, I'll get you scheduled to see a counselor.,543.081,545.9
+SPEAKER_01, I want to thank you for telling me about what's going on and for answering my questions.,545.92,550.214
+SPEAKER_01,It's been helpful.,550.234,550.776
+SPEAKER_01," Yeah, sure.",552.675,552.92
