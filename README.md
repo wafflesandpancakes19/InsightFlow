@@ -20,13 +20,18 @@ The project supports research in computational mental health, causal inference, 
 ---
 
 ## 📦 Repository Structure
+```
 InsightFlow/
-├── AnnotatorGroundTruth/ # Human-annotated causal graphs and mappings
-├── AutomaticGraphAnalysis/ # Evaluation and benchmarking scripts
-├── CausalGraphGenerationCode/ # Core pipeline for LLM-based graph generation
-├── Conversations/ # Raw mental health conversation transcripts
-├── LLMGeneratedGraphs/ # Automatically generated causal graphs
-├── README.md # Project documentation
+├── AnnotatorGroundTruth/        # Human-annotated causal graphs (group{1,2}_annotator{1,2})
+├── AutomaticGraphAnalysis/      # Single corrected analysis pipeline
+│   ├── *.py                     # analysis scripts (see folder README)
+│   └── results/                 # committed corrected output CSVs (Tables 1–3, Fig 4)
+├── CausalGraphGenerationCode/   # Core pipeline for LLM-based graph generation
+├── Conversations/               # Raw mental health conversation transcripts
+├── ExpertRatings/               # Expert rubric ratings of the LLM-generated graphs
+├── LLMGeneratedGraphs/          # Automatically generated causal graphs (group1/, group2/)
+└── README.md                    # Project documentation
+```
 
 Each directory is modular and designed to support independent experimentation and reproducibility.
 
